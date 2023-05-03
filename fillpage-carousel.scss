@@ -1,0 +1,46 @@
+body.carousel-state {
+    position: fixed;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    scrollbar-gutter: stable;
+}
+
+.carousel-page {
+    overscroll-behavior: none;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: white;
+    z-index: 2;
+}
+
+@for $i from 320 through 1080 {
+    #myCarousel[data-boxheight="#{$i}"] .carousel-item {
+        height: #{$i}px;
+
+        svg {
+            height: #{$i}px;
+        }
+    }
+}
+
+.carousel-indicators {
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left: auto;
+    flex-direction: column;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    margin-left: 0;
+
+    [data-bs-target] {
+        width: 3px;
+        height: 30px;
+        border-top-width: 3px;
+        border-bottom-width: 3px;
+        border-right: 10px solid transparent;
+        border-left: 10px solid transparent;
+    }
+}

@@ -1,0 +1,5362 @@
+body.carousel-state {
+  position: fixed;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  scrollbar-gutter: stable;
+}
+
+.carousel-page {
+  overscroll-behavior: none;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: white;
+  z-index: 2;
+}
+
+#myCarousel[data-boxheight="320"] .carousel-item {
+  height: 320px;
+}
+#myCarousel[data-boxheight="320"] .carousel-item svg {
+  height: 320px;
+}
+
+#myCarousel[data-boxheight="321"] .carousel-item {
+  height: 321px;
+}
+#myCarousel[data-boxheight="321"] .carousel-item svg {
+  height: 321px;
+}
+
+#myCarousel[data-boxheight="322"] .carousel-item {
+  height: 322px;
+}
+#myCarousel[data-boxheight="322"] .carousel-item svg {
+  height: 322px;
+}
+
+#myCarousel[data-boxheight="323"] .carousel-item {
+  height: 323px;
+}
+#myCarousel[data-boxheight="323"] .carousel-item svg {
+  height: 323px;
+}
+
+#myCarousel[data-boxheight="324"] .carousel-item {
+  height: 324px;
+}
+#myCarousel[data-boxheight="324"] .carousel-item svg {
+  height: 324px;
+}
+
+#myCarousel[data-boxheight="325"] .carousel-item {
+  height: 325px;
+}
+#myCarousel[data-boxheight="325"] .carousel-item svg {
+  height: 325px;
+}
+
+#myCarousel[data-boxheight="326"] .carousel-item {
+  height: 326px;
+}
+#myCarousel[data-boxheight="326"] .carousel-item svg {
+  height: 326px;
+}
+
+#myCarousel[data-boxheight="327"] .carousel-item {
+  height: 327px;
+}
+#myCarousel[data-boxheight="327"] .carousel-item svg {
+  height: 327px;
+}
+
+#myCarousel[data-boxheight="328"] .carousel-item {
+  height: 328px;
+}
+#myCarousel[data-boxheight="328"] .carousel-item svg {
+  height: 328px;
+}
+
+#myCarousel[data-boxheight="329"] .carousel-item {
+  height: 329px;
+}
+#myCarousel[data-boxheight="329"] .carousel-item svg {
+  height: 329px;
+}
+
+#myCarousel[data-boxheight="330"] .carousel-item {
+  height: 330px;
+}
+#myCarousel[data-boxheight="330"] .carousel-item svg {
+  height: 330px;
+}
+
+#myCarousel[data-boxheight="331"] .carousel-item {
+  height: 331px;
+}
+#myCarousel[data-boxheight="331"] .carousel-item svg {
+  height: 331px;
+}
+
+#myCarousel[data-boxheight="332"] .carousel-item {
+  height: 332px;
+}
+#myCarousel[data-boxheight="332"] .carousel-item svg {
+  height: 332px;
+}
+
+#myCarousel[data-boxheight="333"] .carousel-item {
+  height: 333px;
+}
+#myCarousel[data-boxheight="333"] .carousel-item svg {
+  height: 333px;
+}
+
+#myCarousel[data-boxheight="334"] .carousel-item {
+  height: 334px;
+}
+#myCarousel[data-boxheight="334"] .carousel-item svg {
+  height: 334px;
+}
+
+#myCarousel[data-boxheight="335"] .carousel-item {
+  height: 335px;
+}
+#myCarousel[data-boxheight="335"] .carousel-item svg {
+  height: 335px;
+}
+
+#myCarousel[data-boxheight="336"] .carousel-item {
+  height: 336px;
+}
+#myCarousel[data-boxheight="336"] .carousel-item svg {
+  height: 336px;
+}
+
+#myCarousel[data-boxheight="337"] .carousel-item {
+  height: 337px;
+}
+#myCarousel[data-boxheight="337"] .carousel-item svg {
+  height: 337px;
+}
+
+#myCarousel[data-boxheight="338"] .carousel-item {
+  height: 338px;
+}
+#myCarousel[data-boxheight="338"] .carousel-item svg {
+  height: 338px;
+}
+
+#myCarousel[data-boxheight="339"] .carousel-item {
+  height: 339px;
+}
+#myCarousel[data-boxheight="339"] .carousel-item svg {
+  height: 339px;
+}
+
+#myCarousel[data-boxheight="340"] .carousel-item {
+  height: 340px;
+}
+#myCarousel[data-boxheight="340"] .carousel-item svg {
+  height: 340px;
+}
+
+#myCarousel[data-boxheight="341"] .carousel-item {
+  height: 341px;
+}
+#myCarousel[data-boxheight="341"] .carousel-item svg {
+  height: 341px;
+}
+
+#myCarousel[data-boxheight="342"] .carousel-item {
+  height: 342px;
+}
+#myCarousel[data-boxheight="342"] .carousel-item svg {
+  height: 342px;
+}
+
+#myCarousel[data-boxheight="343"] .carousel-item {
+  height: 343px;
+}
+#myCarousel[data-boxheight="343"] .carousel-item svg {
+  height: 343px;
+}
+
+#myCarousel[data-boxheight="344"] .carousel-item {
+  height: 344px;
+}
+#myCarousel[data-boxheight="344"] .carousel-item svg {
+  height: 344px;
+}
+
+#myCarousel[data-boxheight="345"] .carousel-item {
+  height: 345px;
+}
+#myCarousel[data-boxheight="345"] .carousel-item svg {
+  height: 345px;
+}
+
+#myCarousel[data-boxheight="346"] .carousel-item {
+  height: 346px;
+}
+#myCarousel[data-boxheight="346"] .carousel-item svg {
+  height: 346px;
+}
+
+#myCarousel[data-boxheight="347"] .carousel-item {
+  height: 347px;
+}
+#myCarousel[data-boxheight="347"] .carousel-item svg {
+  height: 347px;
+}
+
+#myCarousel[data-boxheight="348"] .carousel-item {
+  height: 348px;
+}
+#myCarousel[data-boxheight="348"] .carousel-item svg {
+  height: 348px;
+}
+
+#myCarousel[data-boxheight="349"] .carousel-item {
+  height: 349px;
+}
+#myCarousel[data-boxheight="349"] .carousel-item svg {
+  height: 349px;
+}
+
+#myCarousel[data-boxheight="350"] .carousel-item {
+  height: 350px;
+}
+#myCarousel[data-boxheight="350"] .carousel-item svg {
+  height: 350px;
+}
+
+#myCarousel[data-boxheight="351"] .carousel-item {
+  height: 351px;
+}
+#myCarousel[data-boxheight="351"] .carousel-item svg {
+  height: 351px;
+}
+
+#myCarousel[data-boxheight="352"] .carousel-item {
+  height: 352px;
+}
+#myCarousel[data-boxheight="352"] .carousel-item svg {
+  height: 352px;
+}
+
+#myCarousel[data-boxheight="353"] .carousel-item {
+  height: 353px;
+}
+#myCarousel[data-boxheight="353"] .carousel-item svg {
+  height: 353px;
+}
+
+#myCarousel[data-boxheight="354"] .carousel-item {
+  height: 354px;
+}
+#myCarousel[data-boxheight="354"] .carousel-item svg {
+  height: 354px;
+}
+
+#myCarousel[data-boxheight="355"] .carousel-item {
+  height: 355px;
+}
+#myCarousel[data-boxheight="355"] .carousel-item svg {
+  height: 355px;
+}
+
+#myCarousel[data-boxheight="356"] .carousel-item {
+  height: 356px;
+}
+#myCarousel[data-boxheight="356"] .carousel-item svg {
+  height: 356px;
+}
+
+#myCarousel[data-boxheight="357"] .carousel-item {
+  height: 357px;
+}
+#myCarousel[data-boxheight="357"] .carousel-item svg {
+  height: 357px;
+}
+
+#myCarousel[data-boxheight="358"] .carousel-item {
+  height: 358px;
+}
+#myCarousel[data-boxheight="358"] .carousel-item svg {
+  height: 358px;
+}
+
+#myCarousel[data-boxheight="359"] .carousel-item {
+  height: 359px;
+}
+#myCarousel[data-boxheight="359"] .carousel-item svg {
+  height: 359px;
+}
+
+#myCarousel[data-boxheight="360"] .carousel-item {
+  height: 360px;
+}
+#myCarousel[data-boxheight="360"] .carousel-item svg {
+  height: 360px;
+}
+
+#myCarousel[data-boxheight="361"] .carousel-item {
+  height: 361px;
+}
+#myCarousel[data-boxheight="361"] .carousel-item svg {
+  height: 361px;
+}
+
+#myCarousel[data-boxheight="362"] .carousel-item {
+  height: 362px;
+}
+#myCarousel[data-boxheight="362"] .carousel-item svg {
+  height: 362px;
+}
+
+#myCarousel[data-boxheight="363"] .carousel-item {
+  height: 363px;
+}
+#myCarousel[data-boxheight="363"] .carousel-item svg {
+  height: 363px;
+}
+
+#myCarousel[data-boxheight="364"] .carousel-item {
+  height: 364px;
+}
+#myCarousel[data-boxheight="364"] .carousel-item svg {
+  height: 364px;
+}
+
+#myCarousel[data-boxheight="365"] .carousel-item {
+  height: 365px;
+}
+#myCarousel[data-boxheight="365"] .carousel-item svg {
+  height: 365px;
+}
+
+#myCarousel[data-boxheight="366"] .carousel-item {
+  height: 366px;
+}
+#myCarousel[data-boxheight="366"] .carousel-item svg {
+  height: 366px;
+}
+
+#myCarousel[data-boxheight="367"] .carousel-item {
+  height: 367px;
+}
+#myCarousel[data-boxheight="367"] .carousel-item svg {
+  height: 367px;
+}
+
+#myCarousel[data-boxheight="368"] .carousel-item {
+  height: 368px;
+}
+#myCarousel[data-boxheight="368"] .carousel-item svg {
+  height: 368px;
+}
+
+#myCarousel[data-boxheight="369"] .carousel-item {
+  height: 369px;
+}
+#myCarousel[data-boxheight="369"] .carousel-item svg {
+  height: 369px;
+}
+
+#myCarousel[data-boxheight="370"] .carousel-item {
+  height: 370px;
+}
+#myCarousel[data-boxheight="370"] .carousel-item svg {
+  height: 370px;
+}
+
+#myCarousel[data-boxheight="371"] .carousel-item {
+  height: 371px;
+}
+#myCarousel[data-boxheight="371"] .carousel-item svg {
+  height: 371px;
+}
+
+#myCarousel[data-boxheight="372"] .carousel-item {
+  height: 372px;
+}
+#myCarousel[data-boxheight="372"] .carousel-item svg {
+  height: 372px;
+}
+
+#myCarousel[data-boxheight="373"] .carousel-item {
+  height: 373px;
+}
+#myCarousel[data-boxheight="373"] .carousel-item svg {
+  height: 373px;
+}
+
+#myCarousel[data-boxheight="374"] .carousel-item {
+  height: 374px;
+}
+#myCarousel[data-boxheight="374"] .carousel-item svg {
+  height: 374px;
+}
+
+#myCarousel[data-boxheight="375"] .carousel-item {
+  height: 375px;
+}
+#myCarousel[data-boxheight="375"] .carousel-item svg {
+  height: 375px;
+}
+
+#myCarousel[data-boxheight="376"] .carousel-item {
+  height: 376px;
+}
+#myCarousel[data-boxheight="376"] .carousel-item svg {
+  height: 376px;
+}
+
+#myCarousel[data-boxheight="377"] .carousel-item {
+  height: 377px;
+}
+#myCarousel[data-boxheight="377"] .carousel-item svg {
+  height: 377px;
+}
+
+#myCarousel[data-boxheight="378"] .carousel-item {
+  height: 378px;
+}
+#myCarousel[data-boxheight="378"] .carousel-item svg {
+  height: 378px;
+}
+
+#myCarousel[data-boxheight="379"] .carousel-item {
+  height: 379px;
+}
+#myCarousel[data-boxheight="379"] .carousel-item svg {
+  height: 379px;
+}
+
+#myCarousel[data-boxheight="380"] .carousel-item {
+  height: 380px;
+}
+#myCarousel[data-boxheight="380"] .carousel-item svg {
+  height: 380px;
+}
+
+#myCarousel[data-boxheight="381"] .carousel-item {
+  height: 381px;
+}
+#myCarousel[data-boxheight="381"] .carousel-item svg {
+  height: 381px;
+}
+
+#myCarousel[data-boxheight="382"] .carousel-item {
+  height: 382px;
+}
+#myCarousel[data-boxheight="382"] .carousel-item svg {
+  height: 382px;
+}
+
+#myCarousel[data-boxheight="383"] .carousel-item {
+  height: 383px;
+}
+#myCarousel[data-boxheight="383"] .carousel-item svg {
+  height: 383px;
+}
+
+#myCarousel[data-boxheight="384"] .carousel-item {
+  height: 384px;
+}
+#myCarousel[data-boxheight="384"] .carousel-item svg {
+  height: 384px;
+}
+
+#myCarousel[data-boxheight="385"] .carousel-item {
+  height: 385px;
+}
+#myCarousel[data-boxheight="385"] .carousel-item svg {
+  height: 385px;
+}
+
+#myCarousel[data-boxheight="386"] .carousel-item {
+  height: 386px;
+}
+#myCarousel[data-boxheight="386"] .carousel-item svg {
+  height: 386px;
+}
+
+#myCarousel[data-boxheight="387"] .carousel-item {
+  height: 387px;
+}
+#myCarousel[data-boxheight="387"] .carousel-item svg {
+  height: 387px;
+}
+
+#myCarousel[data-boxheight="388"] .carousel-item {
+  height: 388px;
+}
+#myCarousel[data-boxheight="388"] .carousel-item svg {
+  height: 388px;
+}
+
+#myCarousel[data-boxheight="389"] .carousel-item {
+  height: 389px;
+}
+#myCarousel[data-boxheight="389"] .carousel-item svg {
+  height: 389px;
+}
+
+#myCarousel[data-boxheight="390"] .carousel-item {
+  height: 390px;
+}
+#myCarousel[data-boxheight="390"] .carousel-item svg {
+  height: 390px;
+}
+
+#myCarousel[data-boxheight="391"] .carousel-item {
+  height: 391px;
+}
+#myCarousel[data-boxheight="391"] .carousel-item svg {
+  height: 391px;
+}
+
+#myCarousel[data-boxheight="392"] .carousel-item {
+  height: 392px;
+}
+#myCarousel[data-boxheight="392"] .carousel-item svg {
+  height: 392px;
+}
+
+#myCarousel[data-boxheight="393"] .carousel-item {
+  height: 393px;
+}
+#myCarousel[data-boxheight="393"] .carousel-item svg {
+  height: 393px;
+}
+
+#myCarousel[data-boxheight="394"] .carousel-item {
+  height: 394px;
+}
+#myCarousel[data-boxheight="394"] .carousel-item svg {
+  height: 394px;
+}
+
+#myCarousel[data-boxheight="395"] .carousel-item {
+  height: 395px;
+}
+#myCarousel[data-boxheight="395"] .carousel-item svg {
+  height: 395px;
+}
+
+#myCarousel[data-boxheight="396"] .carousel-item {
+  height: 396px;
+}
+#myCarousel[data-boxheight="396"] .carousel-item svg {
+  height: 396px;
+}
+
+#myCarousel[data-boxheight="397"] .carousel-item {
+  height: 397px;
+}
+#myCarousel[data-boxheight="397"] .carousel-item svg {
+  height: 397px;
+}
+
+#myCarousel[data-boxheight="398"] .carousel-item {
+  height: 398px;
+}
+#myCarousel[data-boxheight="398"] .carousel-item svg {
+  height: 398px;
+}
+
+#myCarousel[data-boxheight="399"] .carousel-item {
+  height: 399px;
+}
+#myCarousel[data-boxheight="399"] .carousel-item svg {
+  height: 399px;
+}
+
+#myCarousel[data-boxheight="400"] .carousel-item {
+  height: 400px;
+}
+#myCarousel[data-boxheight="400"] .carousel-item svg {
+  height: 400px;
+}
+
+#myCarousel[data-boxheight="401"] .carousel-item {
+  height: 401px;
+}
+#myCarousel[data-boxheight="401"] .carousel-item svg {
+  height: 401px;
+}
+
+#myCarousel[data-boxheight="402"] .carousel-item {
+  height: 402px;
+}
+#myCarousel[data-boxheight="402"] .carousel-item svg {
+  height: 402px;
+}
+
+#myCarousel[data-boxheight="403"] .carousel-item {
+  height: 403px;
+}
+#myCarousel[data-boxheight="403"] .carousel-item svg {
+  height: 403px;
+}
+
+#myCarousel[data-boxheight="404"] .carousel-item {
+  height: 404px;
+}
+#myCarousel[data-boxheight="404"] .carousel-item svg {
+  height: 404px;
+}
+
+#myCarousel[data-boxheight="405"] .carousel-item {
+  height: 405px;
+}
+#myCarousel[data-boxheight="405"] .carousel-item svg {
+  height: 405px;
+}
+
+#myCarousel[data-boxheight="406"] .carousel-item {
+  height: 406px;
+}
+#myCarousel[data-boxheight="406"] .carousel-item svg {
+  height: 406px;
+}
+
+#myCarousel[data-boxheight="407"] .carousel-item {
+  height: 407px;
+}
+#myCarousel[data-boxheight="407"] .carousel-item svg {
+  height: 407px;
+}
+
+#myCarousel[data-boxheight="408"] .carousel-item {
+  height: 408px;
+}
+#myCarousel[data-boxheight="408"] .carousel-item svg {
+  height: 408px;
+}
+
+#myCarousel[data-boxheight="409"] .carousel-item {
+  height: 409px;
+}
+#myCarousel[data-boxheight="409"] .carousel-item svg {
+  height: 409px;
+}
+
+#myCarousel[data-boxheight="410"] .carousel-item {
+  height: 410px;
+}
+#myCarousel[data-boxheight="410"] .carousel-item svg {
+  height: 410px;
+}
+
+#myCarousel[data-boxheight="411"] .carousel-item {
+  height: 411px;
+}
+#myCarousel[data-boxheight="411"] .carousel-item svg {
+  height: 411px;
+}
+
+#myCarousel[data-boxheight="412"] .carousel-item {
+  height: 412px;
+}
+#myCarousel[data-boxheight="412"] .carousel-item svg {
+  height: 412px;
+}
+
+#myCarousel[data-boxheight="413"] .carousel-item {
+  height: 413px;
+}
+#myCarousel[data-boxheight="413"] .carousel-item svg {
+  height: 413px;
+}
+
+#myCarousel[data-boxheight="414"] .carousel-item {
+  height: 414px;
+}
+#myCarousel[data-boxheight="414"] .carousel-item svg {
+  height: 414px;
+}
+
+#myCarousel[data-boxheight="415"] .carousel-item {
+  height: 415px;
+}
+#myCarousel[data-boxheight="415"] .carousel-item svg {
+  height: 415px;
+}
+
+#myCarousel[data-boxheight="416"] .carousel-item {
+  height: 416px;
+}
+#myCarousel[data-boxheight="416"] .carousel-item svg {
+  height: 416px;
+}
+
+#myCarousel[data-boxheight="417"] .carousel-item {
+  height: 417px;
+}
+#myCarousel[data-boxheight="417"] .carousel-item svg {
+  height: 417px;
+}
+
+#myCarousel[data-boxheight="418"] .carousel-item {
+  height: 418px;
+}
+#myCarousel[data-boxheight="418"] .carousel-item svg {
+  height: 418px;
+}
+
+#myCarousel[data-boxheight="419"] .carousel-item {
+  height: 419px;
+}
+#myCarousel[data-boxheight="419"] .carousel-item svg {
+  height: 419px;
+}
+
+#myCarousel[data-boxheight="420"] .carousel-item {
+  height: 420px;
+}
+#myCarousel[data-boxheight="420"] .carousel-item svg {
+  height: 420px;
+}
+
+#myCarousel[data-boxheight="421"] .carousel-item {
+  height: 421px;
+}
+#myCarousel[data-boxheight="421"] .carousel-item svg {
+  height: 421px;
+}
+
+#myCarousel[data-boxheight="422"] .carousel-item {
+  height: 422px;
+}
+#myCarousel[data-boxheight="422"] .carousel-item svg {
+  height: 422px;
+}
+
+#myCarousel[data-boxheight="423"] .carousel-item {
+  height: 423px;
+}
+#myCarousel[data-boxheight="423"] .carousel-item svg {
+  height: 423px;
+}
+
+#myCarousel[data-boxheight="424"] .carousel-item {
+  height: 424px;
+}
+#myCarousel[data-boxheight="424"] .carousel-item svg {
+  height: 424px;
+}
+
+#myCarousel[data-boxheight="425"] .carousel-item {
+  height: 425px;
+}
+#myCarousel[data-boxheight="425"] .carousel-item svg {
+  height: 425px;
+}
+
+#myCarousel[data-boxheight="426"] .carousel-item {
+  height: 426px;
+}
+#myCarousel[data-boxheight="426"] .carousel-item svg {
+  height: 426px;
+}
+
+#myCarousel[data-boxheight="427"] .carousel-item {
+  height: 427px;
+}
+#myCarousel[data-boxheight="427"] .carousel-item svg {
+  height: 427px;
+}
+
+#myCarousel[data-boxheight="428"] .carousel-item {
+  height: 428px;
+}
+#myCarousel[data-boxheight="428"] .carousel-item svg {
+  height: 428px;
+}
+
+#myCarousel[data-boxheight="429"] .carousel-item {
+  height: 429px;
+}
+#myCarousel[data-boxheight="429"] .carousel-item svg {
+  height: 429px;
+}
+
+#myCarousel[data-boxheight="430"] .carousel-item {
+  height: 430px;
+}
+#myCarousel[data-boxheight="430"] .carousel-item svg {
+  height: 430px;
+}
+
+#myCarousel[data-boxheight="431"] .carousel-item {
+  height: 431px;
+}
+#myCarousel[data-boxheight="431"] .carousel-item svg {
+  height: 431px;
+}
+
+#myCarousel[data-boxheight="432"] .carousel-item {
+  height: 432px;
+}
+#myCarousel[data-boxheight="432"] .carousel-item svg {
+  height: 432px;
+}
+
+#myCarousel[data-boxheight="433"] .carousel-item {
+  height: 433px;
+}
+#myCarousel[data-boxheight="433"] .carousel-item svg {
+  height: 433px;
+}
+
+#myCarousel[data-boxheight="434"] .carousel-item {
+  height: 434px;
+}
+#myCarousel[data-boxheight="434"] .carousel-item svg {
+  height: 434px;
+}
+
+#myCarousel[data-boxheight="435"] .carousel-item {
+  height: 435px;
+}
+#myCarousel[data-boxheight="435"] .carousel-item svg {
+  height: 435px;
+}
+
+#myCarousel[data-boxheight="436"] .carousel-item {
+  height: 436px;
+}
+#myCarousel[data-boxheight="436"] .carousel-item svg {
+  height: 436px;
+}
+
+#myCarousel[data-boxheight="437"] .carousel-item {
+  height: 437px;
+}
+#myCarousel[data-boxheight="437"] .carousel-item svg {
+  height: 437px;
+}
+
+#myCarousel[data-boxheight="438"] .carousel-item {
+  height: 438px;
+}
+#myCarousel[data-boxheight="438"] .carousel-item svg {
+  height: 438px;
+}
+
+#myCarousel[data-boxheight="439"] .carousel-item {
+  height: 439px;
+}
+#myCarousel[data-boxheight="439"] .carousel-item svg {
+  height: 439px;
+}
+
+#myCarousel[data-boxheight="440"] .carousel-item {
+  height: 440px;
+}
+#myCarousel[data-boxheight="440"] .carousel-item svg {
+  height: 440px;
+}
+
+#myCarousel[data-boxheight="441"] .carousel-item {
+  height: 441px;
+}
+#myCarousel[data-boxheight="441"] .carousel-item svg {
+  height: 441px;
+}
+
+#myCarousel[data-boxheight="442"] .carousel-item {
+  height: 442px;
+}
+#myCarousel[data-boxheight="442"] .carousel-item svg {
+  height: 442px;
+}
+
+#myCarousel[data-boxheight="443"] .carousel-item {
+  height: 443px;
+}
+#myCarousel[data-boxheight="443"] .carousel-item svg {
+  height: 443px;
+}
+
+#myCarousel[data-boxheight="444"] .carousel-item {
+  height: 444px;
+}
+#myCarousel[data-boxheight="444"] .carousel-item svg {
+  height: 444px;
+}
+
+#myCarousel[data-boxheight="445"] .carousel-item {
+  height: 445px;
+}
+#myCarousel[data-boxheight="445"] .carousel-item svg {
+  height: 445px;
+}
+
+#myCarousel[data-boxheight="446"] .carousel-item {
+  height: 446px;
+}
+#myCarousel[data-boxheight="446"] .carousel-item svg {
+  height: 446px;
+}
+
+#myCarousel[data-boxheight="447"] .carousel-item {
+  height: 447px;
+}
+#myCarousel[data-boxheight="447"] .carousel-item svg {
+  height: 447px;
+}
+
+#myCarousel[data-boxheight="448"] .carousel-item {
+  height: 448px;
+}
+#myCarousel[data-boxheight="448"] .carousel-item svg {
+  height: 448px;
+}
+
+#myCarousel[data-boxheight="449"] .carousel-item {
+  height: 449px;
+}
+#myCarousel[data-boxheight="449"] .carousel-item svg {
+  height: 449px;
+}
+
+#myCarousel[data-boxheight="450"] .carousel-item {
+  height: 450px;
+}
+#myCarousel[data-boxheight="450"] .carousel-item svg {
+  height: 450px;
+}
+
+#myCarousel[data-boxheight="451"] .carousel-item {
+  height: 451px;
+}
+#myCarousel[data-boxheight="451"] .carousel-item svg {
+  height: 451px;
+}
+
+#myCarousel[data-boxheight="452"] .carousel-item {
+  height: 452px;
+}
+#myCarousel[data-boxheight="452"] .carousel-item svg {
+  height: 452px;
+}
+
+#myCarousel[data-boxheight="453"] .carousel-item {
+  height: 453px;
+}
+#myCarousel[data-boxheight="453"] .carousel-item svg {
+  height: 453px;
+}
+
+#myCarousel[data-boxheight="454"] .carousel-item {
+  height: 454px;
+}
+#myCarousel[data-boxheight="454"] .carousel-item svg {
+  height: 454px;
+}
+
+#myCarousel[data-boxheight="455"] .carousel-item {
+  height: 455px;
+}
+#myCarousel[data-boxheight="455"] .carousel-item svg {
+  height: 455px;
+}
+
+#myCarousel[data-boxheight="456"] .carousel-item {
+  height: 456px;
+}
+#myCarousel[data-boxheight="456"] .carousel-item svg {
+  height: 456px;
+}
+
+#myCarousel[data-boxheight="457"] .carousel-item {
+  height: 457px;
+}
+#myCarousel[data-boxheight="457"] .carousel-item svg {
+  height: 457px;
+}
+
+#myCarousel[data-boxheight="458"] .carousel-item {
+  height: 458px;
+}
+#myCarousel[data-boxheight="458"] .carousel-item svg {
+  height: 458px;
+}
+
+#myCarousel[data-boxheight="459"] .carousel-item {
+  height: 459px;
+}
+#myCarousel[data-boxheight="459"] .carousel-item svg {
+  height: 459px;
+}
+
+#myCarousel[data-boxheight="460"] .carousel-item {
+  height: 460px;
+}
+#myCarousel[data-boxheight="460"] .carousel-item svg {
+  height: 460px;
+}
+
+#myCarousel[data-boxheight="461"] .carousel-item {
+  height: 461px;
+}
+#myCarousel[data-boxheight="461"] .carousel-item svg {
+  height: 461px;
+}
+
+#myCarousel[data-boxheight="462"] .carousel-item {
+  height: 462px;
+}
+#myCarousel[data-boxheight="462"] .carousel-item svg {
+  height: 462px;
+}
+
+#myCarousel[data-boxheight="463"] .carousel-item {
+  height: 463px;
+}
+#myCarousel[data-boxheight="463"] .carousel-item svg {
+  height: 463px;
+}
+
+#myCarousel[data-boxheight="464"] .carousel-item {
+  height: 464px;
+}
+#myCarousel[data-boxheight="464"] .carousel-item svg {
+  height: 464px;
+}
+
+#myCarousel[data-boxheight="465"] .carousel-item {
+  height: 465px;
+}
+#myCarousel[data-boxheight="465"] .carousel-item svg {
+  height: 465px;
+}
+
+#myCarousel[data-boxheight="466"] .carousel-item {
+  height: 466px;
+}
+#myCarousel[data-boxheight="466"] .carousel-item svg {
+  height: 466px;
+}
+
+#myCarousel[data-boxheight="467"] .carousel-item {
+  height: 467px;
+}
+#myCarousel[data-boxheight="467"] .carousel-item svg {
+  height: 467px;
+}
+
+#myCarousel[data-boxheight="468"] .carousel-item {
+  height: 468px;
+}
+#myCarousel[data-boxheight="468"] .carousel-item svg {
+  height: 468px;
+}
+
+#myCarousel[data-boxheight="469"] .carousel-item {
+  height: 469px;
+}
+#myCarousel[data-boxheight="469"] .carousel-item svg {
+  height: 469px;
+}
+
+#myCarousel[data-boxheight="470"] .carousel-item {
+  height: 470px;
+}
+#myCarousel[data-boxheight="470"] .carousel-item svg {
+  height: 470px;
+}
+
+#myCarousel[data-boxheight="471"] .carousel-item {
+  height: 471px;
+}
+#myCarousel[data-boxheight="471"] .carousel-item svg {
+  height: 471px;
+}
+
+#myCarousel[data-boxheight="472"] .carousel-item {
+  height: 472px;
+}
+#myCarousel[data-boxheight="472"] .carousel-item svg {
+  height: 472px;
+}
+
+#myCarousel[data-boxheight="473"] .carousel-item {
+  height: 473px;
+}
+#myCarousel[data-boxheight="473"] .carousel-item svg {
+  height: 473px;
+}
+
+#myCarousel[data-boxheight="474"] .carousel-item {
+  height: 474px;
+}
+#myCarousel[data-boxheight="474"] .carousel-item svg {
+  height: 474px;
+}
+
+#myCarousel[data-boxheight="475"] .carousel-item {
+  height: 475px;
+}
+#myCarousel[data-boxheight="475"] .carousel-item svg {
+  height: 475px;
+}
+
+#myCarousel[data-boxheight="476"] .carousel-item {
+  height: 476px;
+}
+#myCarousel[data-boxheight="476"] .carousel-item svg {
+  height: 476px;
+}
+
+#myCarousel[data-boxheight="477"] .carousel-item {
+  height: 477px;
+}
+#myCarousel[data-boxheight="477"] .carousel-item svg {
+  height: 477px;
+}
+
+#myCarousel[data-boxheight="478"] .carousel-item {
+  height: 478px;
+}
+#myCarousel[data-boxheight="478"] .carousel-item svg {
+  height: 478px;
+}
+
+#myCarousel[data-boxheight="479"] .carousel-item {
+  height: 479px;
+}
+#myCarousel[data-boxheight="479"] .carousel-item svg {
+  height: 479px;
+}
+
+#myCarousel[data-boxheight="480"] .carousel-item {
+  height: 480px;
+}
+#myCarousel[data-boxheight="480"] .carousel-item svg {
+  height: 480px;
+}
+
+#myCarousel[data-boxheight="481"] .carousel-item {
+  height: 481px;
+}
+#myCarousel[data-boxheight="481"] .carousel-item svg {
+  height: 481px;
+}
+
+#myCarousel[data-boxheight="482"] .carousel-item {
+  height: 482px;
+}
+#myCarousel[data-boxheight="482"] .carousel-item svg {
+  height: 482px;
+}
+
+#myCarousel[data-boxheight="483"] .carousel-item {
+  height: 483px;
+}
+#myCarousel[data-boxheight="483"] .carousel-item svg {
+  height: 483px;
+}
+
+#myCarousel[data-boxheight="484"] .carousel-item {
+  height: 484px;
+}
+#myCarousel[data-boxheight="484"] .carousel-item svg {
+  height: 484px;
+}
+
+#myCarousel[data-boxheight="485"] .carousel-item {
+  height: 485px;
+}
+#myCarousel[data-boxheight="485"] .carousel-item svg {
+  height: 485px;
+}
+
+#myCarousel[data-boxheight="486"] .carousel-item {
+  height: 486px;
+}
+#myCarousel[data-boxheight="486"] .carousel-item svg {
+  height: 486px;
+}
+
+#myCarousel[data-boxheight="487"] .carousel-item {
+  height: 487px;
+}
+#myCarousel[data-boxheight="487"] .carousel-item svg {
+  height: 487px;
+}
+
+#myCarousel[data-boxheight="488"] .carousel-item {
+  height: 488px;
+}
+#myCarousel[data-boxheight="488"] .carousel-item svg {
+  height: 488px;
+}
+
+#myCarousel[data-boxheight="489"] .carousel-item {
+  height: 489px;
+}
+#myCarousel[data-boxheight="489"] .carousel-item svg {
+  height: 489px;
+}
+
+#myCarousel[data-boxheight="490"] .carousel-item {
+  height: 490px;
+}
+#myCarousel[data-boxheight="490"] .carousel-item svg {
+  height: 490px;
+}
+
+#myCarousel[data-boxheight="491"] .carousel-item {
+  height: 491px;
+}
+#myCarousel[data-boxheight="491"] .carousel-item svg {
+  height: 491px;
+}
+
+#myCarousel[data-boxheight="492"] .carousel-item {
+  height: 492px;
+}
+#myCarousel[data-boxheight="492"] .carousel-item svg {
+  height: 492px;
+}
+
+#myCarousel[data-boxheight="493"] .carousel-item {
+  height: 493px;
+}
+#myCarousel[data-boxheight="493"] .carousel-item svg {
+  height: 493px;
+}
+
+#myCarousel[data-boxheight="494"] .carousel-item {
+  height: 494px;
+}
+#myCarousel[data-boxheight="494"] .carousel-item svg {
+  height: 494px;
+}
+
+#myCarousel[data-boxheight="495"] .carousel-item {
+  height: 495px;
+}
+#myCarousel[data-boxheight="495"] .carousel-item svg {
+  height: 495px;
+}
+
+#myCarousel[data-boxheight="496"] .carousel-item {
+  height: 496px;
+}
+#myCarousel[data-boxheight="496"] .carousel-item svg {
+  height: 496px;
+}
+
+#myCarousel[data-boxheight="497"] .carousel-item {
+  height: 497px;
+}
+#myCarousel[data-boxheight="497"] .carousel-item svg {
+  height: 497px;
+}
+
+#myCarousel[data-boxheight="498"] .carousel-item {
+  height: 498px;
+}
+#myCarousel[data-boxheight="498"] .carousel-item svg {
+  height: 498px;
+}
+
+#myCarousel[data-boxheight="499"] .carousel-item {
+  height: 499px;
+}
+#myCarousel[data-boxheight="499"] .carousel-item svg {
+  height: 499px;
+}
+
+#myCarousel[data-boxheight="500"] .carousel-item {
+  height: 500px;
+}
+#myCarousel[data-boxheight="500"] .carousel-item svg {
+  height: 500px;
+}
+
+#myCarousel[data-boxheight="501"] .carousel-item {
+  height: 501px;
+}
+#myCarousel[data-boxheight="501"] .carousel-item svg {
+  height: 501px;
+}
+
+#myCarousel[data-boxheight="502"] .carousel-item {
+  height: 502px;
+}
+#myCarousel[data-boxheight="502"] .carousel-item svg {
+  height: 502px;
+}
+
+#myCarousel[data-boxheight="503"] .carousel-item {
+  height: 503px;
+}
+#myCarousel[data-boxheight="503"] .carousel-item svg {
+  height: 503px;
+}
+
+#myCarousel[data-boxheight="504"] .carousel-item {
+  height: 504px;
+}
+#myCarousel[data-boxheight="504"] .carousel-item svg {
+  height: 504px;
+}
+
+#myCarousel[data-boxheight="505"] .carousel-item {
+  height: 505px;
+}
+#myCarousel[data-boxheight="505"] .carousel-item svg {
+  height: 505px;
+}
+
+#myCarousel[data-boxheight="506"] .carousel-item {
+  height: 506px;
+}
+#myCarousel[data-boxheight="506"] .carousel-item svg {
+  height: 506px;
+}
+
+#myCarousel[data-boxheight="507"] .carousel-item {
+  height: 507px;
+}
+#myCarousel[data-boxheight="507"] .carousel-item svg {
+  height: 507px;
+}
+
+#myCarousel[data-boxheight="508"] .carousel-item {
+  height: 508px;
+}
+#myCarousel[data-boxheight="508"] .carousel-item svg {
+  height: 508px;
+}
+
+#myCarousel[data-boxheight="509"] .carousel-item {
+  height: 509px;
+}
+#myCarousel[data-boxheight="509"] .carousel-item svg {
+  height: 509px;
+}
+
+#myCarousel[data-boxheight="510"] .carousel-item {
+  height: 510px;
+}
+#myCarousel[data-boxheight="510"] .carousel-item svg {
+  height: 510px;
+}
+
+#myCarousel[data-boxheight="511"] .carousel-item {
+  height: 511px;
+}
+#myCarousel[data-boxheight="511"] .carousel-item svg {
+  height: 511px;
+}
+
+#myCarousel[data-boxheight="512"] .carousel-item {
+  height: 512px;
+}
+#myCarousel[data-boxheight="512"] .carousel-item svg {
+  height: 512px;
+}
+
+#myCarousel[data-boxheight="513"] .carousel-item {
+  height: 513px;
+}
+#myCarousel[data-boxheight="513"] .carousel-item svg {
+  height: 513px;
+}
+
+#myCarousel[data-boxheight="514"] .carousel-item {
+  height: 514px;
+}
+#myCarousel[data-boxheight="514"] .carousel-item svg {
+  height: 514px;
+}
+
+#myCarousel[data-boxheight="515"] .carousel-item {
+  height: 515px;
+}
+#myCarousel[data-boxheight="515"] .carousel-item svg {
+  height: 515px;
+}
+
+#myCarousel[data-boxheight="516"] .carousel-item {
+  height: 516px;
+}
+#myCarousel[data-boxheight="516"] .carousel-item svg {
+  height: 516px;
+}
+
+#myCarousel[data-boxheight="517"] .carousel-item {
+  height: 517px;
+}
+#myCarousel[data-boxheight="517"] .carousel-item svg {
+  height: 517px;
+}
+
+#myCarousel[data-boxheight="518"] .carousel-item {
+  height: 518px;
+}
+#myCarousel[data-boxheight="518"] .carousel-item svg {
+  height: 518px;
+}
+
+#myCarousel[data-boxheight="519"] .carousel-item {
+  height: 519px;
+}
+#myCarousel[data-boxheight="519"] .carousel-item svg {
+  height: 519px;
+}
+
+#myCarousel[data-boxheight="520"] .carousel-item {
+  height: 520px;
+}
+#myCarousel[data-boxheight="520"] .carousel-item svg {
+  height: 520px;
+}
+
+#myCarousel[data-boxheight="521"] .carousel-item {
+  height: 521px;
+}
+#myCarousel[data-boxheight="521"] .carousel-item svg {
+  height: 521px;
+}
+
+#myCarousel[data-boxheight="522"] .carousel-item {
+  height: 522px;
+}
+#myCarousel[data-boxheight="522"] .carousel-item svg {
+  height: 522px;
+}
+
+#myCarousel[data-boxheight="523"] .carousel-item {
+  height: 523px;
+}
+#myCarousel[data-boxheight="523"] .carousel-item svg {
+  height: 523px;
+}
+
+#myCarousel[data-boxheight="524"] .carousel-item {
+  height: 524px;
+}
+#myCarousel[data-boxheight="524"] .carousel-item svg {
+  height: 524px;
+}
+
+#myCarousel[data-boxheight="525"] .carousel-item {
+  height: 525px;
+}
+#myCarousel[data-boxheight="525"] .carousel-item svg {
+  height: 525px;
+}
+
+#myCarousel[data-boxheight="526"] .carousel-item {
+  height: 526px;
+}
+#myCarousel[data-boxheight="526"] .carousel-item svg {
+  height: 526px;
+}
+
+#myCarousel[data-boxheight="527"] .carousel-item {
+  height: 527px;
+}
+#myCarousel[data-boxheight="527"] .carousel-item svg {
+  height: 527px;
+}
+
+#myCarousel[data-boxheight="528"] .carousel-item {
+  height: 528px;
+}
+#myCarousel[data-boxheight="528"] .carousel-item svg {
+  height: 528px;
+}
+
+#myCarousel[data-boxheight="529"] .carousel-item {
+  height: 529px;
+}
+#myCarousel[data-boxheight="529"] .carousel-item svg {
+  height: 529px;
+}
+
+#myCarousel[data-boxheight="530"] .carousel-item {
+  height: 530px;
+}
+#myCarousel[data-boxheight="530"] .carousel-item svg {
+  height: 530px;
+}
+
+#myCarousel[data-boxheight="531"] .carousel-item {
+  height: 531px;
+}
+#myCarousel[data-boxheight="531"] .carousel-item svg {
+  height: 531px;
+}
+
+#myCarousel[data-boxheight="532"] .carousel-item {
+  height: 532px;
+}
+#myCarousel[data-boxheight="532"] .carousel-item svg {
+  height: 532px;
+}
+
+#myCarousel[data-boxheight="533"] .carousel-item {
+  height: 533px;
+}
+#myCarousel[data-boxheight="533"] .carousel-item svg {
+  height: 533px;
+}
+
+#myCarousel[data-boxheight="534"] .carousel-item {
+  height: 534px;
+}
+#myCarousel[data-boxheight="534"] .carousel-item svg {
+  height: 534px;
+}
+
+#myCarousel[data-boxheight="535"] .carousel-item {
+  height: 535px;
+}
+#myCarousel[data-boxheight="535"] .carousel-item svg {
+  height: 535px;
+}
+
+#myCarousel[data-boxheight="536"] .carousel-item {
+  height: 536px;
+}
+#myCarousel[data-boxheight="536"] .carousel-item svg {
+  height: 536px;
+}
+
+#myCarousel[data-boxheight="537"] .carousel-item {
+  height: 537px;
+}
+#myCarousel[data-boxheight="537"] .carousel-item svg {
+  height: 537px;
+}
+
+#myCarousel[data-boxheight="538"] .carousel-item {
+  height: 538px;
+}
+#myCarousel[data-boxheight="538"] .carousel-item svg {
+  height: 538px;
+}
+
+#myCarousel[data-boxheight="539"] .carousel-item {
+  height: 539px;
+}
+#myCarousel[data-boxheight="539"] .carousel-item svg {
+  height: 539px;
+}
+
+#myCarousel[data-boxheight="540"] .carousel-item {
+  height: 540px;
+}
+#myCarousel[data-boxheight="540"] .carousel-item svg {
+  height: 540px;
+}
+
+#myCarousel[data-boxheight="541"] .carousel-item {
+  height: 541px;
+}
+#myCarousel[data-boxheight="541"] .carousel-item svg {
+  height: 541px;
+}
+
+#myCarousel[data-boxheight="542"] .carousel-item {
+  height: 542px;
+}
+#myCarousel[data-boxheight="542"] .carousel-item svg {
+  height: 542px;
+}
+
+#myCarousel[data-boxheight="543"] .carousel-item {
+  height: 543px;
+}
+#myCarousel[data-boxheight="543"] .carousel-item svg {
+  height: 543px;
+}
+
+#myCarousel[data-boxheight="544"] .carousel-item {
+  height: 544px;
+}
+#myCarousel[data-boxheight="544"] .carousel-item svg {
+  height: 544px;
+}
+
+#myCarousel[data-boxheight="545"] .carousel-item {
+  height: 545px;
+}
+#myCarousel[data-boxheight="545"] .carousel-item svg {
+  height: 545px;
+}
+
+#myCarousel[data-boxheight="546"] .carousel-item {
+  height: 546px;
+}
+#myCarousel[data-boxheight="546"] .carousel-item svg {
+  height: 546px;
+}
+
+#myCarousel[data-boxheight="547"] .carousel-item {
+  height: 547px;
+}
+#myCarousel[data-boxheight="547"] .carousel-item svg {
+  height: 547px;
+}
+
+#myCarousel[data-boxheight="548"] .carousel-item {
+  height: 548px;
+}
+#myCarousel[data-boxheight="548"] .carousel-item svg {
+  height: 548px;
+}
+
+#myCarousel[data-boxheight="549"] .carousel-item {
+  height: 549px;
+}
+#myCarousel[data-boxheight="549"] .carousel-item svg {
+  height: 549px;
+}
+
+#myCarousel[data-boxheight="550"] .carousel-item {
+  height: 550px;
+}
+#myCarousel[data-boxheight="550"] .carousel-item svg {
+  height: 550px;
+}
+
+#myCarousel[data-boxheight="551"] .carousel-item {
+  height: 551px;
+}
+#myCarousel[data-boxheight="551"] .carousel-item svg {
+  height: 551px;
+}
+
+#myCarousel[data-boxheight="552"] .carousel-item {
+  height: 552px;
+}
+#myCarousel[data-boxheight="552"] .carousel-item svg {
+  height: 552px;
+}
+
+#myCarousel[data-boxheight="553"] .carousel-item {
+  height: 553px;
+}
+#myCarousel[data-boxheight="553"] .carousel-item svg {
+  height: 553px;
+}
+
+#myCarousel[data-boxheight="554"] .carousel-item {
+  height: 554px;
+}
+#myCarousel[data-boxheight="554"] .carousel-item svg {
+  height: 554px;
+}
+
+#myCarousel[data-boxheight="555"] .carousel-item {
+  height: 555px;
+}
+#myCarousel[data-boxheight="555"] .carousel-item svg {
+  height: 555px;
+}
+
+#myCarousel[data-boxheight="556"] .carousel-item {
+  height: 556px;
+}
+#myCarousel[data-boxheight="556"] .carousel-item svg {
+  height: 556px;
+}
+
+#myCarousel[data-boxheight="557"] .carousel-item {
+  height: 557px;
+}
+#myCarousel[data-boxheight="557"] .carousel-item svg {
+  height: 557px;
+}
+
+#myCarousel[data-boxheight="558"] .carousel-item {
+  height: 558px;
+}
+#myCarousel[data-boxheight="558"] .carousel-item svg {
+  height: 558px;
+}
+
+#myCarousel[data-boxheight="559"] .carousel-item {
+  height: 559px;
+}
+#myCarousel[data-boxheight="559"] .carousel-item svg {
+  height: 559px;
+}
+
+#myCarousel[data-boxheight="560"] .carousel-item {
+  height: 560px;
+}
+#myCarousel[data-boxheight="560"] .carousel-item svg {
+  height: 560px;
+}
+
+#myCarousel[data-boxheight="561"] .carousel-item {
+  height: 561px;
+}
+#myCarousel[data-boxheight="561"] .carousel-item svg {
+  height: 561px;
+}
+
+#myCarousel[data-boxheight="562"] .carousel-item {
+  height: 562px;
+}
+#myCarousel[data-boxheight="562"] .carousel-item svg {
+  height: 562px;
+}
+
+#myCarousel[data-boxheight="563"] .carousel-item {
+  height: 563px;
+}
+#myCarousel[data-boxheight="563"] .carousel-item svg {
+  height: 563px;
+}
+
+#myCarousel[data-boxheight="564"] .carousel-item {
+  height: 564px;
+}
+#myCarousel[data-boxheight="564"] .carousel-item svg {
+  height: 564px;
+}
+
+#myCarousel[data-boxheight="565"] .carousel-item {
+  height: 565px;
+}
+#myCarousel[data-boxheight="565"] .carousel-item svg {
+  height: 565px;
+}
+
+#myCarousel[data-boxheight="566"] .carousel-item {
+  height: 566px;
+}
+#myCarousel[data-boxheight="566"] .carousel-item svg {
+  height: 566px;
+}
+
+#myCarousel[data-boxheight="567"] .carousel-item {
+  height: 567px;
+}
+#myCarousel[data-boxheight="567"] .carousel-item svg {
+  height: 567px;
+}
+
+#myCarousel[data-boxheight="568"] .carousel-item {
+  height: 568px;
+}
+#myCarousel[data-boxheight="568"] .carousel-item svg {
+  height: 568px;
+}
+
+#myCarousel[data-boxheight="569"] .carousel-item {
+  height: 569px;
+}
+#myCarousel[data-boxheight="569"] .carousel-item svg {
+  height: 569px;
+}
+
+#myCarousel[data-boxheight="570"] .carousel-item {
+  height: 570px;
+}
+#myCarousel[data-boxheight="570"] .carousel-item svg {
+  height: 570px;
+}
+
+#myCarousel[data-boxheight="571"] .carousel-item {
+  height: 571px;
+}
+#myCarousel[data-boxheight="571"] .carousel-item svg {
+  height: 571px;
+}
+
+#myCarousel[data-boxheight="572"] .carousel-item {
+  height: 572px;
+}
+#myCarousel[data-boxheight="572"] .carousel-item svg {
+  height: 572px;
+}
+
+#myCarousel[data-boxheight="573"] .carousel-item {
+  height: 573px;
+}
+#myCarousel[data-boxheight="573"] .carousel-item svg {
+  height: 573px;
+}
+
+#myCarousel[data-boxheight="574"] .carousel-item {
+  height: 574px;
+}
+#myCarousel[data-boxheight="574"] .carousel-item svg {
+  height: 574px;
+}
+
+#myCarousel[data-boxheight="575"] .carousel-item {
+  height: 575px;
+}
+#myCarousel[data-boxheight="575"] .carousel-item svg {
+  height: 575px;
+}
+
+#myCarousel[data-boxheight="576"] .carousel-item {
+  height: 576px;
+}
+#myCarousel[data-boxheight="576"] .carousel-item svg {
+  height: 576px;
+}
+
+#myCarousel[data-boxheight="577"] .carousel-item {
+  height: 577px;
+}
+#myCarousel[data-boxheight="577"] .carousel-item svg {
+  height: 577px;
+}
+
+#myCarousel[data-boxheight="578"] .carousel-item {
+  height: 578px;
+}
+#myCarousel[data-boxheight="578"] .carousel-item svg {
+  height: 578px;
+}
+
+#myCarousel[data-boxheight="579"] .carousel-item {
+  height: 579px;
+}
+#myCarousel[data-boxheight="579"] .carousel-item svg {
+  height: 579px;
+}
+
+#myCarousel[data-boxheight="580"] .carousel-item {
+  height: 580px;
+}
+#myCarousel[data-boxheight="580"] .carousel-item svg {
+  height: 580px;
+}
+
+#myCarousel[data-boxheight="581"] .carousel-item {
+  height: 581px;
+}
+#myCarousel[data-boxheight="581"] .carousel-item svg {
+  height: 581px;
+}
+
+#myCarousel[data-boxheight="582"] .carousel-item {
+  height: 582px;
+}
+#myCarousel[data-boxheight="582"] .carousel-item svg {
+  height: 582px;
+}
+
+#myCarousel[data-boxheight="583"] .carousel-item {
+  height: 583px;
+}
+#myCarousel[data-boxheight="583"] .carousel-item svg {
+  height: 583px;
+}
+
+#myCarousel[data-boxheight="584"] .carousel-item {
+  height: 584px;
+}
+#myCarousel[data-boxheight="584"] .carousel-item svg {
+  height: 584px;
+}
+
+#myCarousel[data-boxheight="585"] .carousel-item {
+  height: 585px;
+}
+#myCarousel[data-boxheight="585"] .carousel-item svg {
+  height: 585px;
+}
+
+#myCarousel[data-boxheight="586"] .carousel-item {
+  height: 586px;
+}
+#myCarousel[data-boxheight="586"] .carousel-item svg {
+  height: 586px;
+}
+
+#myCarousel[data-boxheight="587"] .carousel-item {
+  height: 587px;
+}
+#myCarousel[data-boxheight="587"] .carousel-item svg {
+  height: 587px;
+}
+
+#myCarousel[data-boxheight="588"] .carousel-item {
+  height: 588px;
+}
+#myCarousel[data-boxheight="588"] .carousel-item svg {
+  height: 588px;
+}
+
+#myCarousel[data-boxheight="589"] .carousel-item {
+  height: 589px;
+}
+#myCarousel[data-boxheight="589"] .carousel-item svg {
+  height: 589px;
+}
+
+#myCarousel[data-boxheight="590"] .carousel-item {
+  height: 590px;
+}
+#myCarousel[data-boxheight="590"] .carousel-item svg {
+  height: 590px;
+}
+
+#myCarousel[data-boxheight="591"] .carousel-item {
+  height: 591px;
+}
+#myCarousel[data-boxheight="591"] .carousel-item svg {
+  height: 591px;
+}
+
+#myCarousel[data-boxheight="592"] .carousel-item {
+  height: 592px;
+}
+#myCarousel[data-boxheight="592"] .carousel-item svg {
+  height: 592px;
+}
+
+#myCarousel[data-boxheight="593"] .carousel-item {
+  height: 593px;
+}
+#myCarousel[data-boxheight="593"] .carousel-item svg {
+  height: 593px;
+}
+
+#myCarousel[data-boxheight="594"] .carousel-item {
+  height: 594px;
+}
+#myCarousel[data-boxheight="594"] .carousel-item svg {
+  height: 594px;
+}
+
+#myCarousel[data-boxheight="595"] .carousel-item {
+  height: 595px;
+}
+#myCarousel[data-boxheight="595"] .carousel-item svg {
+  height: 595px;
+}
+
+#myCarousel[data-boxheight="596"] .carousel-item {
+  height: 596px;
+}
+#myCarousel[data-boxheight="596"] .carousel-item svg {
+  height: 596px;
+}
+
+#myCarousel[data-boxheight="597"] .carousel-item {
+  height: 597px;
+}
+#myCarousel[data-boxheight="597"] .carousel-item svg {
+  height: 597px;
+}
+
+#myCarousel[data-boxheight="598"] .carousel-item {
+  height: 598px;
+}
+#myCarousel[data-boxheight="598"] .carousel-item svg {
+  height: 598px;
+}
+
+#myCarousel[data-boxheight="599"] .carousel-item {
+  height: 599px;
+}
+#myCarousel[data-boxheight="599"] .carousel-item svg {
+  height: 599px;
+}
+
+#myCarousel[data-boxheight="600"] .carousel-item {
+  height: 600px;
+}
+#myCarousel[data-boxheight="600"] .carousel-item svg {
+  height: 600px;
+}
+
+#myCarousel[data-boxheight="601"] .carousel-item {
+  height: 601px;
+}
+#myCarousel[data-boxheight="601"] .carousel-item svg {
+  height: 601px;
+}
+
+#myCarousel[data-boxheight="602"] .carousel-item {
+  height: 602px;
+}
+#myCarousel[data-boxheight="602"] .carousel-item svg {
+  height: 602px;
+}
+
+#myCarousel[data-boxheight="603"] .carousel-item {
+  height: 603px;
+}
+#myCarousel[data-boxheight="603"] .carousel-item svg {
+  height: 603px;
+}
+
+#myCarousel[data-boxheight="604"] .carousel-item {
+  height: 604px;
+}
+#myCarousel[data-boxheight="604"] .carousel-item svg {
+  height: 604px;
+}
+
+#myCarousel[data-boxheight="605"] .carousel-item {
+  height: 605px;
+}
+#myCarousel[data-boxheight="605"] .carousel-item svg {
+  height: 605px;
+}
+
+#myCarousel[data-boxheight="606"] .carousel-item {
+  height: 606px;
+}
+#myCarousel[data-boxheight="606"] .carousel-item svg {
+  height: 606px;
+}
+
+#myCarousel[data-boxheight="607"] .carousel-item {
+  height: 607px;
+}
+#myCarousel[data-boxheight="607"] .carousel-item svg {
+  height: 607px;
+}
+
+#myCarousel[data-boxheight="608"] .carousel-item {
+  height: 608px;
+}
+#myCarousel[data-boxheight="608"] .carousel-item svg {
+  height: 608px;
+}
+
+#myCarousel[data-boxheight="609"] .carousel-item {
+  height: 609px;
+}
+#myCarousel[data-boxheight="609"] .carousel-item svg {
+  height: 609px;
+}
+
+#myCarousel[data-boxheight="610"] .carousel-item {
+  height: 610px;
+}
+#myCarousel[data-boxheight="610"] .carousel-item svg {
+  height: 610px;
+}
+
+#myCarousel[data-boxheight="611"] .carousel-item {
+  height: 611px;
+}
+#myCarousel[data-boxheight="611"] .carousel-item svg {
+  height: 611px;
+}
+
+#myCarousel[data-boxheight="612"] .carousel-item {
+  height: 612px;
+}
+#myCarousel[data-boxheight="612"] .carousel-item svg {
+  height: 612px;
+}
+
+#myCarousel[data-boxheight="613"] .carousel-item {
+  height: 613px;
+}
+#myCarousel[data-boxheight="613"] .carousel-item svg {
+  height: 613px;
+}
+
+#myCarousel[data-boxheight="614"] .carousel-item {
+  height: 614px;
+}
+#myCarousel[data-boxheight="614"] .carousel-item svg {
+  height: 614px;
+}
+
+#myCarousel[data-boxheight="615"] .carousel-item {
+  height: 615px;
+}
+#myCarousel[data-boxheight="615"] .carousel-item svg {
+  height: 615px;
+}
+
+#myCarousel[data-boxheight="616"] .carousel-item {
+  height: 616px;
+}
+#myCarousel[data-boxheight="616"] .carousel-item svg {
+  height: 616px;
+}
+
+#myCarousel[data-boxheight="617"] .carousel-item {
+  height: 617px;
+}
+#myCarousel[data-boxheight="617"] .carousel-item svg {
+  height: 617px;
+}
+
+#myCarousel[data-boxheight="618"] .carousel-item {
+  height: 618px;
+}
+#myCarousel[data-boxheight="618"] .carousel-item svg {
+  height: 618px;
+}
+
+#myCarousel[data-boxheight="619"] .carousel-item {
+  height: 619px;
+}
+#myCarousel[data-boxheight="619"] .carousel-item svg {
+  height: 619px;
+}
+
+#myCarousel[data-boxheight="620"] .carousel-item {
+  height: 620px;
+}
+#myCarousel[data-boxheight="620"] .carousel-item svg {
+  height: 620px;
+}
+
+#myCarousel[data-boxheight="621"] .carousel-item {
+  height: 621px;
+}
+#myCarousel[data-boxheight="621"] .carousel-item svg {
+  height: 621px;
+}
+
+#myCarousel[data-boxheight="622"] .carousel-item {
+  height: 622px;
+}
+#myCarousel[data-boxheight="622"] .carousel-item svg {
+  height: 622px;
+}
+
+#myCarousel[data-boxheight="623"] .carousel-item {
+  height: 623px;
+}
+#myCarousel[data-boxheight="623"] .carousel-item svg {
+  height: 623px;
+}
+
+#myCarousel[data-boxheight="624"] .carousel-item {
+  height: 624px;
+}
+#myCarousel[data-boxheight="624"] .carousel-item svg {
+  height: 624px;
+}
+
+#myCarousel[data-boxheight="625"] .carousel-item {
+  height: 625px;
+}
+#myCarousel[data-boxheight="625"] .carousel-item svg {
+  height: 625px;
+}
+
+#myCarousel[data-boxheight="626"] .carousel-item {
+  height: 626px;
+}
+#myCarousel[data-boxheight="626"] .carousel-item svg {
+  height: 626px;
+}
+
+#myCarousel[data-boxheight="627"] .carousel-item {
+  height: 627px;
+}
+#myCarousel[data-boxheight="627"] .carousel-item svg {
+  height: 627px;
+}
+
+#myCarousel[data-boxheight="628"] .carousel-item {
+  height: 628px;
+}
+#myCarousel[data-boxheight="628"] .carousel-item svg {
+  height: 628px;
+}
+
+#myCarousel[data-boxheight="629"] .carousel-item {
+  height: 629px;
+}
+#myCarousel[data-boxheight="629"] .carousel-item svg {
+  height: 629px;
+}
+
+#myCarousel[data-boxheight="630"] .carousel-item {
+  height: 630px;
+}
+#myCarousel[data-boxheight="630"] .carousel-item svg {
+  height: 630px;
+}
+
+#myCarousel[data-boxheight="631"] .carousel-item {
+  height: 631px;
+}
+#myCarousel[data-boxheight="631"] .carousel-item svg {
+  height: 631px;
+}
+
+#myCarousel[data-boxheight="632"] .carousel-item {
+  height: 632px;
+}
+#myCarousel[data-boxheight="632"] .carousel-item svg {
+  height: 632px;
+}
+
+#myCarousel[data-boxheight="633"] .carousel-item {
+  height: 633px;
+}
+#myCarousel[data-boxheight="633"] .carousel-item svg {
+  height: 633px;
+}
+
+#myCarousel[data-boxheight="634"] .carousel-item {
+  height: 634px;
+}
+#myCarousel[data-boxheight="634"] .carousel-item svg {
+  height: 634px;
+}
+
+#myCarousel[data-boxheight="635"] .carousel-item {
+  height: 635px;
+}
+#myCarousel[data-boxheight="635"] .carousel-item svg {
+  height: 635px;
+}
+
+#myCarousel[data-boxheight="636"] .carousel-item {
+  height: 636px;
+}
+#myCarousel[data-boxheight="636"] .carousel-item svg {
+  height: 636px;
+}
+
+#myCarousel[data-boxheight="637"] .carousel-item {
+  height: 637px;
+}
+#myCarousel[data-boxheight="637"] .carousel-item svg {
+  height: 637px;
+}
+
+#myCarousel[data-boxheight="638"] .carousel-item {
+  height: 638px;
+}
+#myCarousel[data-boxheight="638"] .carousel-item svg {
+  height: 638px;
+}
+
+#myCarousel[data-boxheight="639"] .carousel-item {
+  height: 639px;
+}
+#myCarousel[data-boxheight="639"] .carousel-item svg {
+  height: 639px;
+}
+
+#myCarousel[data-boxheight="640"] .carousel-item {
+  height: 640px;
+}
+#myCarousel[data-boxheight="640"] .carousel-item svg {
+  height: 640px;
+}
+
+#myCarousel[data-boxheight="641"] .carousel-item {
+  height: 641px;
+}
+#myCarousel[data-boxheight="641"] .carousel-item svg {
+  height: 641px;
+}
+
+#myCarousel[data-boxheight="642"] .carousel-item {
+  height: 642px;
+}
+#myCarousel[data-boxheight="642"] .carousel-item svg {
+  height: 642px;
+}
+
+#myCarousel[data-boxheight="643"] .carousel-item {
+  height: 643px;
+}
+#myCarousel[data-boxheight="643"] .carousel-item svg {
+  height: 643px;
+}
+
+#myCarousel[data-boxheight="644"] .carousel-item {
+  height: 644px;
+}
+#myCarousel[data-boxheight="644"] .carousel-item svg {
+  height: 644px;
+}
+
+#myCarousel[data-boxheight="645"] .carousel-item {
+  height: 645px;
+}
+#myCarousel[data-boxheight="645"] .carousel-item svg {
+  height: 645px;
+}
+
+#myCarousel[data-boxheight="646"] .carousel-item {
+  height: 646px;
+}
+#myCarousel[data-boxheight="646"] .carousel-item svg {
+  height: 646px;
+}
+
+#myCarousel[data-boxheight="647"] .carousel-item {
+  height: 647px;
+}
+#myCarousel[data-boxheight="647"] .carousel-item svg {
+  height: 647px;
+}
+
+#myCarousel[data-boxheight="648"] .carousel-item {
+  height: 648px;
+}
+#myCarousel[data-boxheight="648"] .carousel-item svg {
+  height: 648px;
+}
+
+#myCarousel[data-boxheight="649"] .carousel-item {
+  height: 649px;
+}
+#myCarousel[data-boxheight="649"] .carousel-item svg {
+  height: 649px;
+}
+
+#myCarousel[data-boxheight="650"] .carousel-item {
+  height: 650px;
+}
+#myCarousel[data-boxheight="650"] .carousel-item svg {
+  height: 650px;
+}
+
+#myCarousel[data-boxheight="651"] .carousel-item {
+  height: 651px;
+}
+#myCarousel[data-boxheight="651"] .carousel-item svg {
+  height: 651px;
+}
+
+#myCarousel[data-boxheight="652"] .carousel-item {
+  height: 652px;
+}
+#myCarousel[data-boxheight="652"] .carousel-item svg {
+  height: 652px;
+}
+
+#myCarousel[data-boxheight="653"] .carousel-item {
+  height: 653px;
+}
+#myCarousel[data-boxheight="653"] .carousel-item svg {
+  height: 653px;
+}
+
+#myCarousel[data-boxheight="654"] .carousel-item {
+  height: 654px;
+}
+#myCarousel[data-boxheight="654"] .carousel-item svg {
+  height: 654px;
+}
+
+#myCarousel[data-boxheight="655"] .carousel-item {
+  height: 655px;
+}
+#myCarousel[data-boxheight="655"] .carousel-item svg {
+  height: 655px;
+}
+
+#myCarousel[data-boxheight="656"] .carousel-item {
+  height: 656px;
+}
+#myCarousel[data-boxheight="656"] .carousel-item svg {
+  height: 656px;
+}
+
+#myCarousel[data-boxheight="657"] .carousel-item {
+  height: 657px;
+}
+#myCarousel[data-boxheight="657"] .carousel-item svg {
+  height: 657px;
+}
+
+#myCarousel[data-boxheight="658"] .carousel-item {
+  height: 658px;
+}
+#myCarousel[data-boxheight="658"] .carousel-item svg {
+  height: 658px;
+}
+
+#myCarousel[data-boxheight="659"] .carousel-item {
+  height: 659px;
+}
+#myCarousel[data-boxheight="659"] .carousel-item svg {
+  height: 659px;
+}
+
+#myCarousel[data-boxheight="660"] .carousel-item {
+  height: 660px;
+}
+#myCarousel[data-boxheight="660"] .carousel-item svg {
+  height: 660px;
+}
+
+#myCarousel[data-boxheight="661"] .carousel-item {
+  height: 661px;
+}
+#myCarousel[data-boxheight="661"] .carousel-item svg {
+  height: 661px;
+}
+
+#myCarousel[data-boxheight="662"] .carousel-item {
+  height: 662px;
+}
+#myCarousel[data-boxheight="662"] .carousel-item svg {
+  height: 662px;
+}
+
+#myCarousel[data-boxheight="663"] .carousel-item {
+  height: 663px;
+}
+#myCarousel[data-boxheight="663"] .carousel-item svg {
+  height: 663px;
+}
+
+#myCarousel[data-boxheight="664"] .carousel-item {
+  height: 664px;
+}
+#myCarousel[data-boxheight="664"] .carousel-item svg {
+  height: 664px;
+}
+
+#myCarousel[data-boxheight="665"] .carousel-item {
+  height: 665px;
+}
+#myCarousel[data-boxheight="665"] .carousel-item svg {
+  height: 665px;
+}
+
+#myCarousel[data-boxheight="666"] .carousel-item {
+  height: 666px;
+}
+#myCarousel[data-boxheight="666"] .carousel-item svg {
+  height: 666px;
+}
+
+#myCarousel[data-boxheight="667"] .carousel-item {
+  height: 667px;
+}
+#myCarousel[data-boxheight="667"] .carousel-item svg {
+  height: 667px;
+}
+
+#myCarousel[data-boxheight="668"] .carousel-item {
+  height: 668px;
+}
+#myCarousel[data-boxheight="668"] .carousel-item svg {
+  height: 668px;
+}
+
+#myCarousel[data-boxheight="669"] .carousel-item {
+  height: 669px;
+}
+#myCarousel[data-boxheight="669"] .carousel-item svg {
+  height: 669px;
+}
+
+#myCarousel[data-boxheight="670"] .carousel-item {
+  height: 670px;
+}
+#myCarousel[data-boxheight="670"] .carousel-item svg {
+  height: 670px;
+}
+
+#myCarousel[data-boxheight="671"] .carousel-item {
+  height: 671px;
+}
+#myCarousel[data-boxheight="671"] .carousel-item svg {
+  height: 671px;
+}
+
+#myCarousel[data-boxheight="672"] .carousel-item {
+  height: 672px;
+}
+#myCarousel[data-boxheight="672"] .carousel-item svg {
+  height: 672px;
+}
+
+#myCarousel[data-boxheight="673"] .carousel-item {
+  height: 673px;
+}
+#myCarousel[data-boxheight="673"] .carousel-item svg {
+  height: 673px;
+}
+
+#myCarousel[data-boxheight="674"] .carousel-item {
+  height: 674px;
+}
+#myCarousel[data-boxheight="674"] .carousel-item svg {
+  height: 674px;
+}
+
+#myCarousel[data-boxheight="675"] .carousel-item {
+  height: 675px;
+}
+#myCarousel[data-boxheight="675"] .carousel-item svg {
+  height: 675px;
+}
+
+#myCarousel[data-boxheight="676"] .carousel-item {
+  height: 676px;
+}
+#myCarousel[data-boxheight="676"] .carousel-item svg {
+  height: 676px;
+}
+
+#myCarousel[data-boxheight="677"] .carousel-item {
+  height: 677px;
+}
+#myCarousel[data-boxheight="677"] .carousel-item svg {
+  height: 677px;
+}
+
+#myCarousel[data-boxheight="678"] .carousel-item {
+  height: 678px;
+}
+#myCarousel[data-boxheight="678"] .carousel-item svg {
+  height: 678px;
+}
+
+#myCarousel[data-boxheight="679"] .carousel-item {
+  height: 679px;
+}
+#myCarousel[data-boxheight="679"] .carousel-item svg {
+  height: 679px;
+}
+
+#myCarousel[data-boxheight="680"] .carousel-item {
+  height: 680px;
+}
+#myCarousel[data-boxheight="680"] .carousel-item svg {
+  height: 680px;
+}
+
+#myCarousel[data-boxheight="681"] .carousel-item {
+  height: 681px;
+}
+#myCarousel[data-boxheight="681"] .carousel-item svg {
+  height: 681px;
+}
+
+#myCarousel[data-boxheight="682"] .carousel-item {
+  height: 682px;
+}
+#myCarousel[data-boxheight="682"] .carousel-item svg {
+  height: 682px;
+}
+
+#myCarousel[data-boxheight="683"] .carousel-item {
+  height: 683px;
+}
+#myCarousel[data-boxheight="683"] .carousel-item svg {
+  height: 683px;
+}
+
+#myCarousel[data-boxheight="684"] .carousel-item {
+  height: 684px;
+}
+#myCarousel[data-boxheight="684"] .carousel-item svg {
+  height: 684px;
+}
+
+#myCarousel[data-boxheight="685"] .carousel-item {
+  height: 685px;
+}
+#myCarousel[data-boxheight="685"] .carousel-item svg {
+  height: 685px;
+}
+
+#myCarousel[data-boxheight="686"] .carousel-item {
+  height: 686px;
+}
+#myCarousel[data-boxheight="686"] .carousel-item svg {
+  height: 686px;
+}
+
+#myCarousel[data-boxheight="687"] .carousel-item {
+  height: 687px;
+}
+#myCarousel[data-boxheight="687"] .carousel-item svg {
+  height: 687px;
+}
+
+#myCarousel[data-boxheight="688"] .carousel-item {
+  height: 688px;
+}
+#myCarousel[data-boxheight="688"] .carousel-item svg {
+  height: 688px;
+}
+
+#myCarousel[data-boxheight="689"] .carousel-item {
+  height: 689px;
+}
+#myCarousel[data-boxheight="689"] .carousel-item svg {
+  height: 689px;
+}
+
+#myCarousel[data-boxheight="690"] .carousel-item {
+  height: 690px;
+}
+#myCarousel[data-boxheight="690"] .carousel-item svg {
+  height: 690px;
+}
+
+#myCarousel[data-boxheight="691"] .carousel-item {
+  height: 691px;
+}
+#myCarousel[data-boxheight="691"] .carousel-item svg {
+  height: 691px;
+}
+
+#myCarousel[data-boxheight="692"] .carousel-item {
+  height: 692px;
+}
+#myCarousel[data-boxheight="692"] .carousel-item svg {
+  height: 692px;
+}
+
+#myCarousel[data-boxheight="693"] .carousel-item {
+  height: 693px;
+}
+#myCarousel[data-boxheight="693"] .carousel-item svg {
+  height: 693px;
+}
+
+#myCarousel[data-boxheight="694"] .carousel-item {
+  height: 694px;
+}
+#myCarousel[data-boxheight="694"] .carousel-item svg {
+  height: 694px;
+}
+
+#myCarousel[data-boxheight="695"] .carousel-item {
+  height: 695px;
+}
+#myCarousel[data-boxheight="695"] .carousel-item svg {
+  height: 695px;
+}
+
+#myCarousel[data-boxheight="696"] .carousel-item {
+  height: 696px;
+}
+#myCarousel[data-boxheight="696"] .carousel-item svg {
+  height: 696px;
+}
+
+#myCarousel[data-boxheight="697"] .carousel-item {
+  height: 697px;
+}
+#myCarousel[data-boxheight="697"] .carousel-item svg {
+  height: 697px;
+}
+
+#myCarousel[data-boxheight="698"] .carousel-item {
+  height: 698px;
+}
+#myCarousel[data-boxheight="698"] .carousel-item svg {
+  height: 698px;
+}
+
+#myCarousel[data-boxheight="699"] .carousel-item {
+  height: 699px;
+}
+#myCarousel[data-boxheight="699"] .carousel-item svg {
+  height: 699px;
+}
+
+#myCarousel[data-boxheight="700"] .carousel-item {
+  height: 700px;
+}
+#myCarousel[data-boxheight="700"] .carousel-item svg {
+  height: 700px;
+}
+
+#myCarousel[data-boxheight="701"] .carousel-item {
+  height: 701px;
+}
+#myCarousel[data-boxheight="701"] .carousel-item svg {
+  height: 701px;
+}
+
+#myCarousel[data-boxheight="702"] .carousel-item {
+  height: 702px;
+}
+#myCarousel[data-boxheight="702"] .carousel-item svg {
+  height: 702px;
+}
+
+#myCarousel[data-boxheight="703"] .carousel-item {
+  height: 703px;
+}
+#myCarousel[data-boxheight="703"] .carousel-item svg {
+  height: 703px;
+}
+
+#myCarousel[data-boxheight="704"] .carousel-item {
+  height: 704px;
+}
+#myCarousel[data-boxheight="704"] .carousel-item svg {
+  height: 704px;
+}
+
+#myCarousel[data-boxheight="705"] .carousel-item {
+  height: 705px;
+}
+#myCarousel[data-boxheight="705"] .carousel-item svg {
+  height: 705px;
+}
+
+#myCarousel[data-boxheight="706"] .carousel-item {
+  height: 706px;
+}
+#myCarousel[data-boxheight="706"] .carousel-item svg {
+  height: 706px;
+}
+
+#myCarousel[data-boxheight="707"] .carousel-item {
+  height: 707px;
+}
+#myCarousel[data-boxheight="707"] .carousel-item svg {
+  height: 707px;
+}
+
+#myCarousel[data-boxheight="708"] .carousel-item {
+  height: 708px;
+}
+#myCarousel[data-boxheight="708"] .carousel-item svg {
+  height: 708px;
+}
+
+#myCarousel[data-boxheight="709"] .carousel-item {
+  height: 709px;
+}
+#myCarousel[data-boxheight="709"] .carousel-item svg {
+  height: 709px;
+}
+
+#myCarousel[data-boxheight="710"] .carousel-item {
+  height: 710px;
+}
+#myCarousel[data-boxheight="710"] .carousel-item svg {
+  height: 710px;
+}
+
+#myCarousel[data-boxheight="711"] .carousel-item {
+  height: 711px;
+}
+#myCarousel[data-boxheight="711"] .carousel-item svg {
+  height: 711px;
+}
+
+#myCarousel[data-boxheight="712"] .carousel-item {
+  height: 712px;
+}
+#myCarousel[data-boxheight="712"] .carousel-item svg {
+  height: 712px;
+}
+
+#myCarousel[data-boxheight="713"] .carousel-item {
+  height: 713px;
+}
+#myCarousel[data-boxheight="713"] .carousel-item svg {
+  height: 713px;
+}
+
+#myCarousel[data-boxheight="714"] .carousel-item {
+  height: 714px;
+}
+#myCarousel[data-boxheight="714"] .carousel-item svg {
+  height: 714px;
+}
+
+#myCarousel[data-boxheight="715"] .carousel-item {
+  height: 715px;
+}
+#myCarousel[data-boxheight="715"] .carousel-item svg {
+  height: 715px;
+}
+
+#myCarousel[data-boxheight="716"] .carousel-item {
+  height: 716px;
+}
+#myCarousel[data-boxheight="716"] .carousel-item svg {
+  height: 716px;
+}
+
+#myCarousel[data-boxheight="717"] .carousel-item {
+  height: 717px;
+}
+#myCarousel[data-boxheight="717"] .carousel-item svg {
+  height: 717px;
+}
+
+#myCarousel[data-boxheight="718"] .carousel-item {
+  height: 718px;
+}
+#myCarousel[data-boxheight="718"] .carousel-item svg {
+  height: 718px;
+}
+
+#myCarousel[data-boxheight="719"] .carousel-item {
+  height: 719px;
+}
+#myCarousel[data-boxheight="719"] .carousel-item svg {
+  height: 719px;
+}
+
+#myCarousel[data-boxheight="720"] .carousel-item {
+  height: 720px;
+}
+#myCarousel[data-boxheight="720"] .carousel-item svg {
+  height: 720px;
+}
+
+#myCarousel[data-boxheight="721"] .carousel-item {
+  height: 721px;
+}
+#myCarousel[data-boxheight="721"] .carousel-item svg {
+  height: 721px;
+}
+
+#myCarousel[data-boxheight="722"] .carousel-item {
+  height: 722px;
+}
+#myCarousel[data-boxheight="722"] .carousel-item svg {
+  height: 722px;
+}
+
+#myCarousel[data-boxheight="723"] .carousel-item {
+  height: 723px;
+}
+#myCarousel[data-boxheight="723"] .carousel-item svg {
+  height: 723px;
+}
+
+#myCarousel[data-boxheight="724"] .carousel-item {
+  height: 724px;
+}
+#myCarousel[data-boxheight="724"] .carousel-item svg {
+  height: 724px;
+}
+
+#myCarousel[data-boxheight="725"] .carousel-item {
+  height: 725px;
+}
+#myCarousel[data-boxheight="725"] .carousel-item svg {
+  height: 725px;
+}
+
+#myCarousel[data-boxheight="726"] .carousel-item {
+  height: 726px;
+}
+#myCarousel[data-boxheight="726"] .carousel-item svg {
+  height: 726px;
+}
+
+#myCarousel[data-boxheight="727"] .carousel-item {
+  height: 727px;
+}
+#myCarousel[data-boxheight="727"] .carousel-item svg {
+  height: 727px;
+}
+
+#myCarousel[data-boxheight="728"] .carousel-item {
+  height: 728px;
+}
+#myCarousel[data-boxheight="728"] .carousel-item svg {
+  height: 728px;
+}
+
+#myCarousel[data-boxheight="729"] .carousel-item {
+  height: 729px;
+}
+#myCarousel[data-boxheight="729"] .carousel-item svg {
+  height: 729px;
+}
+
+#myCarousel[data-boxheight="730"] .carousel-item {
+  height: 730px;
+}
+#myCarousel[data-boxheight="730"] .carousel-item svg {
+  height: 730px;
+}
+
+#myCarousel[data-boxheight="731"] .carousel-item {
+  height: 731px;
+}
+#myCarousel[data-boxheight="731"] .carousel-item svg {
+  height: 731px;
+}
+
+#myCarousel[data-boxheight="732"] .carousel-item {
+  height: 732px;
+}
+#myCarousel[data-boxheight="732"] .carousel-item svg {
+  height: 732px;
+}
+
+#myCarousel[data-boxheight="733"] .carousel-item {
+  height: 733px;
+}
+#myCarousel[data-boxheight="733"] .carousel-item svg {
+  height: 733px;
+}
+
+#myCarousel[data-boxheight="734"] .carousel-item {
+  height: 734px;
+}
+#myCarousel[data-boxheight="734"] .carousel-item svg {
+  height: 734px;
+}
+
+#myCarousel[data-boxheight="735"] .carousel-item {
+  height: 735px;
+}
+#myCarousel[data-boxheight="735"] .carousel-item svg {
+  height: 735px;
+}
+
+#myCarousel[data-boxheight="736"] .carousel-item {
+  height: 736px;
+}
+#myCarousel[data-boxheight="736"] .carousel-item svg {
+  height: 736px;
+}
+
+#myCarousel[data-boxheight="737"] .carousel-item {
+  height: 737px;
+}
+#myCarousel[data-boxheight="737"] .carousel-item svg {
+  height: 737px;
+}
+
+#myCarousel[data-boxheight="738"] .carousel-item {
+  height: 738px;
+}
+#myCarousel[data-boxheight="738"] .carousel-item svg {
+  height: 738px;
+}
+
+#myCarousel[data-boxheight="739"] .carousel-item {
+  height: 739px;
+}
+#myCarousel[data-boxheight="739"] .carousel-item svg {
+  height: 739px;
+}
+
+#myCarousel[data-boxheight="740"] .carousel-item {
+  height: 740px;
+}
+#myCarousel[data-boxheight="740"] .carousel-item svg {
+  height: 740px;
+}
+
+#myCarousel[data-boxheight="741"] .carousel-item {
+  height: 741px;
+}
+#myCarousel[data-boxheight="741"] .carousel-item svg {
+  height: 741px;
+}
+
+#myCarousel[data-boxheight="742"] .carousel-item {
+  height: 742px;
+}
+#myCarousel[data-boxheight="742"] .carousel-item svg {
+  height: 742px;
+}
+
+#myCarousel[data-boxheight="743"] .carousel-item {
+  height: 743px;
+}
+#myCarousel[data-boxheight="743"] .carousel-item svg {
+  height: 743px;
+}
+
+#myCarousel[data-boxheight="744"] .carousel-item {
+  height: 744px;
+}
+#myCarousel[data-boxheight="744"] .carousel-item svg {
+  height: 744px;
+}
+
+#myCarousel[data-boxheight="745"] .carousel-item {
+  height: 745px;
+}
+#myCarousel[data-boxheight="745"] .carousel-item svg {
+  height: 745px;
+}
+
+#myCarousel[data-boxheight="746"] .carousel-item {
+  height: 746px;
+}
+#myCarousel[data-boxheight="746"] .carousel-item svg {
+  height: 746px;
+}
+
+#myCarousel[data-boxheight="747"] .carousel-item {
+  height: 747px;
+}
+#myCarousel[data-boxheight="747"] .carousel-item svg {
+  height: 747px;
+}
+
+#myCarousel[data-boxheight="748"] .carousel-item {
+  height: 748px;
+}
+#myCarousel[data-boxheight="748"] .carousel-item svg {
+  height: 748px;
+}
+
+#myCarousel[data-boxheight="749"] .carousel-item {
+  height: 749px;
+}
+#myCarousel[data-boxheight="749"] .carousel-item svg {
+  height: 749px;
+}
+
+#myCarousel[data-boxheight="750"] .carousel-item {
+  height: 750px;
+}
+#myCarousel[data-boxheight="750"] .carousel-item svg {
+  height: 750px;
+}
+
+#myCarousel[data-boxheight="751"] .carousel-item {
+  height: 751px;
+}
+#myCarousel[data-boxheight="751"] .carousel-item svg {
+  height: 751px;
+}
+
+#myCarousel[data-boxheight="752"] .carousel-item {
+  height: 752px;
+}
+#myCarousel[data-boxheight="752"] .carousel-item svg {
+  height: 752px;
+}
+
+#myCarousel[data-boxheight="753"] .carousel-item {
+  height: 753px;
+}
+#myCarousel[data-boxheight="753"] .carousel-item svg {
+  height: 753px;
+}
+
+#myCarousel[data-boxheight="754"] .carousel-item {
+  height: 754px;
+}
+#myCarousel[data-boxheight="754"] .carousel-item svg {
+  height: 754px;
+}
+
+#myCarousel[data-boxheight="755"] .carousel-item {
+  height: 755px;
+}
+#myCarousel[data-boxheight="755"] .carousel-item svg {
+  height: 755px;
+}
+
+#myCarousel[data-boxheight="756"] .carousel-item {
+  height: 756px;
+}
+#myCarousel[data-boxheight="756"] .carousel-item svg {
+  height: 756px;
+}
+
+#myCarousel[data-boxheight="757"] .carousel-item {
+  height: 757px;
+}
+#myCarousel[data-boxheight="757"] .carousel-item svg {
+  height: 757px;
+}
+
+#myCarousel[data-boxheight="758"] .carousel-item {
+  height: 758px;
+}
+#myCarousel[data-boxheight="758"] .carousel-item svg {
+  height: 758px;
+}
+
+#myCarousel[data-boxheight="759"] .carousel-item {
+  height: 759px;
+}
+#myCarousel[data-boxheight="759"] .carousel-item svg {
+  height: 759px;
+}
+
+#myCarousel[data-boxheight="760"] .carousel-item {
+  height: 760px;
+}
+#myCarousel[data-boxheight="760"] .carousel-item svg {
+  height: 760px;
+}
+
+#myCarousel[data-boxheight="761"] .carousel-item {
+  height: 761px;
+}
+#myCarousel[data-boxheight="761"] .carousel-item svg {
+  height: 761px;
+}
+
+#myCarousel[data-boxheight="762"] .carousel-item {
+  height: 762px;
+}
+#myCarousel[data-boxheight="762"] .carousel-item svg {
+  height: 762px;
+}
+
+#myCarousel[data-boxheight="763"] .carousel-item {
+  height: 763px;
+}
+#myCarousel[data-boxheight="763"] .carousel-item svg {
+  height: 763px;
+}
+
+#myCarousel[data-boxheight="764"] .carousel-item {
+  height: 764px;
+}
+#myCarousel[data-boxheight="764"] .carousel-item svg {
+  height: 764px;
+}
+
+#myCarousel[data-boxheight="765"] .carousel-item {
+  height: 765px;
+}
+#myCarousel[data-boxheight="765"] .carousel-item svg {
+  height: 765px;
+}
+
+#myCarousel[data-boxheight="766"] .carousel-item {
+  height: 766px;
+}
+#myCarousel[data-boxheight="766"] .carousel-item svg {
+  height: 766px;
+}
+
+#myCarousel[data-boxheight="767"] .carousel-item {
+  height: 767px;
+}
+#myCarousel[data-boxheight="767"] .carousel-item svg {
+  height: 767px;
+}
+
+#myCarousel[data-boxheight="768"] .carousel-item {
+  height: 768px;
+}
+#myCarousel[data-boxheight="768"] .carousel-item svg {
+  height: 768px;
+}
+
+#myCarousel[data-boxheight="769"] .carousel-item {
+  height: 769px;
+}
+#myCarousel[data-boxheight="769"] .carousel-item svg {
+  height: 769px;
+}
+
+#myCarousel[data-boxheight="770"] .carousel-item {
+  height: 770px;
+}
+#myCarousel[data-boxheight="770"] .carousel-item svg {
+  height: 770px;
+}
+
+#myCarousel[data-boxheight="771"] .carousel-item {
+  height: 771px;
+}
+#myCarousel[data-boxheight="771"] .carousel-item svg {
+  height: 771px;
+}
+
+#myCarousel[data-boxheight="772"] .carousel-item {
+  height: 772px;
+}
+#myCarousel[data-boxheight="772"] .carousel-item svg {
+  height: 772px;
+}
+
+#myCarousel[data-boxheight="773"] .carousel-item {
+  height: 773px;
+}
+#myCarousel[data-boxheight="773"] .carousel-item svg {
+  height: 773px;
+}
+
+#myCarousel[data-boxheight="774"] .carousel-item {
+  height: 774px;
+}
+#myCarousel[data-boxheight="774"] .carousel-item svg {
+  height: 774px;
+}
+
+#myCarousel[data-boxheight="775"] .carousel-item {
+  height: 775px;
+}
+#myCarousel[data-boxheight="775"] .carousel-item svg {
+  height: 775px;
+}
+
+#myCarousel[data-boxheight="776"] .carousel-item {
+  height: 776px;
+}
+#myCarousel[data-boxheight="776"] .carousel-item svg {
+  height: 776px;
+}
+
+#myCarousel[data-boxheight="777"] .carousel-item {
+  height: 777px;
+}
+#myCarousel[data-boxheight="777"] .carousel-item svg {
+  height: 777px;
+}
+
+#myCarousel[data-boxheight="778"] .carousel-item {
+  height: 778px;
+}
+#myCarousel[data-boxheight="778"] .carousel-item svg {
+  height: 778px;
+}
+
+#myCarousel[data-boxheight="779"] .carousel-item {
+  height: 779px;
+}
+#myCarousel[data-boxheight="779"] .carousel-item svg {
+  height: 779px;
+}
+
+#myCarousel[data-boxheight="780"] .carousel-item {
+  height: 780px;
+}
+#myCarousel[data-boxheight="780"] .carousel-item svg {
+  height: 780px;
+}
+
+#myCarousel[data-boxheight="781"] .carousel-item {
+  height: 781px;
+}
+#myCarousel[data-boxheight="781"] .carousel-item svg {
+  height: 781px;
+}
+
+#myCarousel[data-boxheight="782"] .carousel-item {
+  height: 782px;
+}
+#myCarousel[data-boxheight="782"] .carousel-item svg {
+  height: 782px;
+}
+
+#myCarousel[data-boxheight="783"] .carousel-item {
+  height: 783px;
+}
+#myCarousel[data-boxheight="783"] .carousel-item svg {
+  height: 783px;
+}
+
+#myCarousel[data-boxheight="784"] .carousel-item {
+  height: 784px;
+}
+#myCarousel[data-boxheight="784"] .carousel-item svg {
+  height: 784px;
+}
+
+#myCarousel[data-boxheight="785"] .carousel-item {
+  height: 785px;
+}
+#myCarousel[data-boxheight="785"] .carousel-item svg {
+  height: 785px;
+}
+
+#myCarousel[data-boxheight="786"] .carousel-item {
+  height: 786px;
+}
+#myCarousel[data-boxheight="786"] .carousel-item svg {
+  height: 786px;
+}
+
+#myCarousel[data-boxheight="787"] .carousel-item {
+  height: 787px;
+}
+#myCarousel[data-boxheight="787"] .carousel-item svg {
+  height: 787px;
+}
+
+#myCarousel[data-boxheight="788"] .carousel-item {
+  height: 788px;
+}
+#myCarousel[data-boxheight="788"] .carousel-item svg {
+  height: 788px;
+}
+
+#myCarousel[data-boxheight="789"] .carousel-item {
+  height: 789px;
+}
+#myCarousel[data-boxheight="789"] .carousel-item svg {
+  height: 789px;
+}
+
+#myCarousel[data-boxheight="790"] .carousel-item {
+  height: 790px;
+}
+#myCarousel[data-boxheight="790"] .carousel-item svg {
+  height: 790px;
+}
+
+#myCarousel[data-boxheight="791"] .carousel-item {
+  height: 791px;
+}
+#myCarousel[data-boxheight="791"] .carousel-item svg {
+  height: 791px;
+}
+
+#myCarousel[data-boxheight="792"] .carousel-item {
+  height: 792px;
+}
+#myCarousel[data-boxheight="792"] .carousel-item svg {
+  height: 792px;
+}
+
+#myCarousel[data-boxheight="793"] .carousel-item {
+  height: 793px;
+}
+#myCarousel[data-boxheight="793"] .carousel-item svg {
+  height: 793px;
+}
+
+#myCarousel[data-boxheight="794"] .carousel-item {
+  height: 794px;
+}
+#myCarousel[data-boxheight="794"] .carousel-item svg {
+  height: 794px;
+}
+
+#myCarousel[data-boxheight="795"] .carousel-item {
+  height: 795px;
+}
+#myCarousel[data-boxheight="795"] .carousel-item svg {
+  height: 795px;
+}
+
+#myCarousel[data-boxheight="796"] .carousel-item {
+  height: 796px;
+}
+#myCarousel[data-boxheight="796"] .carousel-item svg {
+  height: 796px;
+}
+
+#myCarousel[data-boxheight="797"] .carousel-item {
+  height: 797px;
+}
+#myCarousel[data-boxheight="797"] .carousel-item svg {
+  height: 797px;
+}
+
+#myCarousel[data-boxheight="798"] .carousel-item {
+  height: 798px;
+}
+#myCarousel[data-boxheight="798"] .carousel-item svg {
+  height: 798px;
+}
+
+#myCarousel[data-boxheight="799"] .carousel-item {
+  height: 799px;
+}
+#myCarousel[data-boxheight="799"] .carousel-item svg {
+  height: 799px;
+}
+
+#myCarousel[data-boxheight="800"] .carousel-item {
+  height: 800px;
+}
+#myCarousel[data-boxheight="800"] .carousel-item svg {
+  height: 800px;
+}
+
+#myCarousel[data-boxheight="801"] .carousel-item {
+  height: 801px;
+}
+#myCarousel[data-boxheight="801"] .carousel-item svg {
+  height: 801px;
+}
+
+#myCarousel[data-boxheight="802"] .carousel-item {
+  height: 802px;
+}
+#myCarousel[data-boxheight="802"] .carousel-item svg {
+  height: 802px;
+}
+
+#myCarousel[data-boxheight="803"] .carousel-item {
+  height: 803px;
+}
+#myCarousel[data-boxheight="803"] .carousel-item svg {
+  height: 803px;
+}
+
+#myCarousel[data-boxheight="804"] .carousel-item {
+  height: 804px;
+}
+#myCarousel[data-boxheight="804"] .carousel-item svg {
+  height: 804px;
+}
+
+#myCarousel[data-boxheight="805"] .carousel-item {
+  height: 805px;
+}
+#myCarousel[data-boxheight="805"] .carousel-item svg {
+  height: 805px;
+}
+
+#myCarousel[data-boxheight="806"] .carousel-item {
+  height: 806px;
+}
+#myCarousel[data-boxheight="806"] .carousel-item svg {
+  height: 806px;
+}
+
+#myCarousel[data-boxheight="807"] .carousel-item {
+  height: 807px;
+}
+#myCarousel[data-boxheight="807"] .carousel-item svg {
+  height: 807px;
+}
+
+#myCarousel[data-boxheight="808"] .carousel-item {
+  height: 808px;
+}
+#myCarousel[data-boxheight="808"] .carousel-item svg {
+  height: 808px;
+}
+
+#myCarousel[data-boxheight="809"] .carousel-item {
+  height: 809px;
+}
+#myCarousel[data-boxheight="809"] .carousel-item svg {
+  height: 809px;
+}
+
+#myCarousel[data-boxheight="810"] .carousel-item {
+  height: 810px;
+}
+#myCarousel[data-boxheight="810"] .carousel-item svg {
+  height: 810px;
+}
+
+#myCarousel[data-boxheight="811"] .carousel-item {
+  height: 811px;
+}
+#myCarousel[data-boxheight="811"] .carousel-item svg {
+  height: 811px;
+}
+
+#myCarousel[data-boxheight="812"] .carousel-item {
+  height: 812px;
+}
+#myCarousel[data-boxheight="812"] .carousel-item svg {
+  height: 812px;
+}
+
+#myCarousel[data-boxheight="813"] .carousel-item {
+  height: 813px;
+}
+#myCarousel[data-boxheight="813"] .carousel-item svg {
+  height: 813px;
+}
+
+#myCarousel[data-boxheight="814"] .carousel-item {
+  height: 814px;
+}
+#myCarousel[data-boxheight="814"] .carousel-item svg {
+  height: 814px;
+}
+
+#myCarousel[data-boxheight="815"] .carousel-item {
+  height: 815px;
+}
+#myCarousel[data-boxheight="815"] .carousel-item svg {
+  height: 815px;
+}
+
+#myCarousel[data-boxheight="816"] .carousel-item {
+  height: 816px;
+}
+#myCarousel[data-boxheight="816"] .carousel-item svg {
+  height: 816px;
+}
+
+#myCarousel[data-boxheight="817"] .carousel-item {
+  height: 817px;
+}
+#myCarousel[data-boxheight="817"] .carousel-item svg {
+  height: 817px;
+}
+
+#myCarousel[data-boxheight="818"] .carousel-item {
+  height: 818px;
+}
+#myCarousel[data-boxheight="818"] .carousel-item svg {
+  height: 818px;
+}
+
+#myCarousel[data-boxheight="819"] .carousel-item {
+  height: 819px;
+}
+#myCarousel[data-boxheight="819"] .carousel-item svg {
+  height: 819px;
+}
+
+#myCarousel[data-boxheight="820"] .carousel-item {
+  height: 820px;
+}
+#myCarousel[data-boxheight="820"] .carousel-item svg {
+  height: 820px;
+}
+
+#myCarousel[data-boxheight="821"] .carousel-item {
+  height: 821px;
+}
+#myCarousel[data-boxheight="821"] .carousel-item svg {
+  height: 821px;
+}
+
+#myCarousel[data-boxheight="822"] .carousel-item {
+  height: 822px;
+}
+#myCarousel[data-boxheight="822"] .carousel-item svg {
+  height: 822px;
+}
+
+#myCarousel[data-boxheight="823"] .carousel-item {
+  height: 823px;
+}
+#myCarousel[data-boxheight="823"] .carousel-item svg {
+  height: 823px;
+}
+
+#myCarousel[data-boxheight="824"] .carousel-item {
+  height: 824px;
+}
+#myCarousel[data-boxheight="824"] .carousel-item svg {
+  height: 824px;
+}
+
+#myCarousel[data-boxheight="825"] .carousel-item {
+  height: 825px;
+}
+#myCarousel[data-boxheight="825"] .carousel-item svg {
+  height: 825px;
+}
+
+#myCarousel[data-boxheight="826"] .carousel-item {
+  height: 826px;
+}
+#myCarousel[data-boxheight="826"] .carousel-item svg {
+  height: 826px;
+}
+
+#myCarousel[data-boxheight="827"] .carousel-item {
+  height: 827px;
+}
+#myCarousel[data-boxheight="827"] .carousel-item svg {
+  height: 827px;
+}
+
+#myCarousel[data-boxheight="828"] .carousel-item {
+  height: 828px;
+}
+#myCarousel[data-boxheight="828"] .carousel-item svg {
+  height: 828px;
+}
+
+#myCarousel[data-boxheight="829"] .carousel-item {
+  height: 829px;
+}
+#myCarousel[data-boxheight="829"] .carousel-item svg {
+  height: 829px;
+}
+
+#myCarousel[data-boxheight="830"] .carousel-item {
+  height: 830px;
+}
+#myCarousel[data-boxheight="830"] .carousel-item svg {
+  height: 830px;
+}
+
+#myCarousel[data-boxheight="831"] .carousel-item {
+  height: 831px;
+}
+#myCarousel[data-boxheight="831"] .carousel-item svg {
+  height: 831px;
+}
+
+#myCarousel[data-boxheight="832"] .carousel-item {
+  height: 832px;
+}
+#myCarousel[data-boxheight="832"] .carousel-item svg {
+  height: 832px;
+}
+
+#myCarousel[data-boxheight="833"] .carousel-item {
+  height: 833px;
+}
+#myCarousel[data-boxheight="833"] .carousel-item svg {
+  height: 833px;
+}
+
+#myCarousel[data-boxheight="834"] .carousel-item {
+  height: 834px;
+}
+#myCarousel[data-boxheight="834"] .carousel-item svg {
+  height: 834px;
+}
+
+#myCarousel[data-boxheight="835"] .carousel-item {
+  height: 835px;
+}
+#myCarousel[data-boxheight="835"] .carousel-item svg {
+  height: 835px;
+}
+
+#myCarousel[data-boxheight="836"] .carousel-item {
+  height: 836px;
+}
+#myCarousel[data-boxheight="836"] .carousel-item svg {
+  height: 836px;
+}
+
+#myCarousel[data-boxheight="837"] .carousel-item {
+  height: 837px;
+}
+#myCarousel[data-boxheight="837"] .carousel-item svg {
+  height: 837px;
+}
+
+#myCarousel[data-boxheight="838"] .carousel-item {
+  height: 838px;
+}
+#myCarousel[data-boxheight="838"] .carousel-item svg {
+  height: 838px;
+}
+
+#myCarousel[data-boxheight="839"] .carousel-item {
+  height: 839px;
+}
+#myCarousel[data-boxheight="839"] .carousel-item svg {
+  height: 839px;
+}
+
+#myCarousel[data-boxheight="840"] .carousel-item {
+  height: 840px;
+}
+#myCarousel[data-boxheight="840"] .carousel-item svg {
+  height: 840px;
+}
+
+#myCarousel[data-boxheight="841"] .carousel-item {
+  height: 841px;
+}
+#myCarousel[data-boxheight="841"] .carousel-item svg {
+  height: 841px;
+}
+
+#myCarousel[data-boxheight="842"] .carousel-item {
+  height: 842px;
+}
+#myCarousel[data-boxheight="842"] .carousel-item svg {
+  height: 842px;
+}
+
+#myCarousel[data-boxheight="843"] .carousel-item {
+  height: 843px;
+}
+#myCarousel[data-boxheight="843"] .carousel-item svg {
+  height: 843px;
+}
+
+#myCarousel[data-boxheight="844"] .carousel-item {
+  height: 844px;
+}
+#myCarousel[data-boxheight="844"] .carousel-item svg {
+  height: 844px;
+}
+
+#myCarousel[data-boxheight="845"] .carousel-item {
+  height: 845px;
+}
+#myCarousel[data-boxheight="845"] .carousel-item svg {
+  height: 845px;
+}
+
+#myCarousel[data-boxheight="846"] .carousel-item {
+  height: 846px;
+}
+#myCarousel[data-boxheight="846"] .carousel-item svg {
+  height: 846px;
+}
+
+#myCarousel[data-boxheight="847"] .carousel-item {
+  height: 847px;
+}
+#myCarousel[data-boxheight="847"] .carousel-item svg {
+  height: 847px;
+}
+
+#myCarousel[data-boxheight="848"] .carousel-item {
+  height: 848px;
+}
+#myCarousel[data-boxheight="848"] .carousel-item svg {
+  height: 848px;
+}
+
+#myCarousel[data-boxheight="849"] .carousel-item {
+  height: 849px;
+}
+#myCarousel[data-boxheight="849"] .carousel-item svg {
+  height: 849px;
+}
+
+#myCarousel[data-boxheight="850"] .carousel-item {
+  height: 850px;
+}
+#myCarousel[data-boxheight="850"] .carousel-item svg {
+  height: 850px;
+}
+
+#myCarousel[data-boxheight="851"] .carousel-item {
+  height: 851px;
+}
+#myCarousel[data-boxheight="851"] .carousel-item svg {
+  height: 851px;
+}
+
+#myCarousel[data-boxheight="852"] .carousel-item {
+  height: 852px;
+}
+#myCarousel[data-boxheight="852"] .carousel-item svg {
+  height: 852px;
+}
+
+#myCarousel[data-boxheight="853"] .carousel-item {
+  height: 853px;
+}
+#myCarousel[data-boxheight="853"] .carousel-item svg {
+  height: 853px;
+}
+
+#myCarousel[data-boxheight="854"] .carousel-item {
+  height: 854px;
+}
+#myCarousel[data-boxheight="854"] .carousel-item svg {
+  height: 854px;
+}
+
+#myCarousel[data-boxheight="855"] .carousel-item {
+  height: 855px;
+}
+#myCarousel[data-boxheight="855"] .carousel-item svg {
+  height: 855px;
+}
+
+#myCarousel[data-boxheight="856"] .carousel-item {
+  height: 856px;
+}
+#myCarousel[data-boxheight="856"] .carousel-item svg {
+  height: 856px;
+}
+
+#myCarousel[data-boxheight="857"] .carousel-item {
+  height: 857px;
+}
+#myCarousel[data-boxheight="857"] .carousel-item svg {
+  height: 857px;
+}
+
+#myCarousel[data-boxheight="858"] .carousel-item {
+  height: 858px;
+}
+#myCarousel[data-boxheight="858"] .carousel-item svg {
+  height: 858px;
+}
+
+#myCarousel[data-boxheight="859"] .carousel-item {
+  height: 859px;
+}
+#myCarousel[data-boxheight="859"] .carousel-item svg {
+  height: 859px;
+}
+
+#myCarousel[data-boxheight="860"] .carousel-item {
+  height: 860px;
+}
+#myCarousel[data-boxheight="860"] .carousel-item svg {
+  height: 860px;
+}
+
+#myCarousel[data-boxheight="861"] .carousel-item {
+  height: 861px;
+}
+#myCarousel[data-boxheight="861"] .carousel-item svg {
+  height: 861px;
+}
+
+#myCarousel[data-boxheight="862"] .carousel-item {
+  height: 862px;
+}
+#myCarousel[data-boxheight="862"] .carousel-item svg {
+  height: 862px;
+}
+
+#myCarousel[data-boxheight="863"] .carousel-item {
+  height: 863px;
+}
+#myCarousel[data-boxheight="863"] .carousel-item svg {
+  height: 863px;
+}
+
+#myCarousel[data-boxheight="864"] .carousel-item {
+  height: 864px;
+}
+#myCarousel[data-boxheight="864"] .carousel-item svg {
+  height: 864px;
+}
+
+#myCarousel[data-boxheight="865"] .carousel-item {
+  height: 865px;
+}
+#myCarousel[data-boxheight="865"] .carousel-item svg {
+  height: 865px;
+}
+
+#myCarousel[data-boxheight="866"] .carousel-item {
+  height: 866px;
+}
+#myCarousel[data-boxheight="866"] .carousel-item svg {
+  height: 866px;
+}
+
+#myCarousel[data-boxheight="867"] .carousel-item {
+  height: 867px;
+}
+#myCarousel[data-boxheight="867"] .carousel-item svg {
+  height: 867px;
+}
+
+#myCarousel[data-boxheight="868"] .carousel-item {
+  height: 868px;
+}
+#myCarousel[data-boxheight="868"] .carousel-item svg {
+  height: 868px;
+}
+
+#myCarousel[data-boxheight="869"] .carousel-item {
+  height: 869px;
+}
+#myCarousel[data-boxheight="869"] .carousel-item svg {
+  height: 869px;
+}
+
+#myCarousel[data-boxheight="870"] .carousel-item {
+  height: 870px;
+}
+#myCarousel[data-boxheight="870"] .carousel-item svg {
+  height: 870px;
+}
+
+#myCarousel[data-boxheight="871"] .carousel-item {
+  height: 871px;
+}
+#myCarousel[data-boxheight="871"] .carousel-item svg {
+  height: 871px;
+}
+
+#myCarousel[data-boxheight="872"] .carousel-item {
+  height: 872px;
+}
+#myCarousel[data-boxheight="872"] .carousel-item svg {
+  height: 872px;
+}
+
+#myCarousel[data-boxheight="873"] .carousel-item {
+  height: 873px;
+}
+#myCarousel[data-boxheight="873"] .carousel-item svg {
+  height: 873px;
+}
+
+#myCarousel[data-boxheight="874"] .carousel-item {
+  height: 874px;
+}
+#myCarousel[data-boxheight="874"] .carousel-item svg {
+  height: 874px;
+}
+
+#myCarousel[data-boxheight="875"] .carousel-item {
+  height: 875px;
+}
+#myCarousel[data-boxheight="875"] .carousel-item svg {
+  height: 875px;
+}
+
+#myCarousel[data-boxheight="876"] .carousel-item {
+  height: 876px;
+}
+#myCarousel[data-boxheight="876"] .carousel-item svg {
+  height: 876px;
+}
+
+#myCarousel[data-boxheight="877"] .carousel-item {
+  height: 877px;
+}
+#myCarousel[data-boxheight="877"] .carousel-item svg {
+  height: 877px;
+}
+
+#myCarousel[data-boxheight="878"] .carousel-item {
+  height: 878px;
+}
+#myCarousel[data-boxheight="878"] .carousel-item svg {
+  height: 878px;
+}
+
+#myCarousel[data-boxheight="879"] .carousel-item {
+  height: 879px;
+}
+#myCarousel[data-boxheight="879"] .carousel-item svg {
+  height: 879px;
+}
+
+#myCarousel[data-boxheight="880"] .carousel-item {
+  height: 880px;
+}
+#myCarousel[data-boxheight="880"] .carousel-item svg {
+  height: 880px;
+}
+
+#myCarousel[data-boxheight="881"] .carousel-item {
+  height: 881px;
+}
+#myCarousel[data-boxheight="881"] .carousel-item svg {
+  height: 881px;
+}
+
+#myCarousel[data-boxheight="882"] .carousel-item {
+  height: 882px;
+}
+#myCarousel[data-boxheight="882"] .carousel-item svg {
+  height: 882px;
+}
+
+#myCarousel[data-boxheight="883"] .carousel-item {
+  height: 883px;
+}
+#myCarousel[data-boxheight="883"] .carousel-item svg {
+  height: 883px;
+}
+
+#myCarousel[data-boxheight="884"] .carousel-item {
+  height: 884px;
+}
+#myCarousel[data-boxheight="884"] .carousel-item svg {
+  height: 884px;
+}
+
+#myCarousel[data-boxheight="885"] .carousel-item {
+  height: 885px;
+}
+#myCarousel[data-boxheight="885"] .carousel-item svg {
+  height: 885px;
+}
+
+#myCarousel[data-boxheight="886"] .carousel-item {
+  height: 886px;
+}
+#myCarousel[data-boxheight="886"] .carousel-item svg {
+  height: 886px;
+}
+
+#myCarousel[data-boxheight="887"] .carousel-item {
+  height: 887px;
+}
+#myCarousel[data-boxheight="887"] .carousel-item svg {
+  height: 887px;
+}
+
+#myCarousel[data-boxheight="888"] .carousel-item {
+  height: 888px;
+}
+#myCarousel[data-boxheight="888"] .carousel-item svg {
+  height: 888px;
+}
+
+#myCarousel[data-boxheight="889"] .carousel-item {
+  height: 889px;
+}
+#myCarousel[data-boxheight="889"] .carousel-item svg {
+  height: 889px;
+}
+
+#myCarousel[data-boxheight="890"] .carousel-item {
+  height: 890px;
+}
+#myCarousel[data-boxheight="890"] .carousel-item svg {
+  height: 890px;
+}
+
+#myCarousel[data-boxheight="891"] .carousel-item {
+  height: 891px;
+}
+#myCarousel[data-boxheight="891"] .carousel-item svg {
+  height: 891px;
+}
+
+#myCarousel[data-boxheight="892"] .carousel-item {
+  height: 892px;
+}
+#myCarousel[data-boxheight="892"] .carousel-item svg {
+  height: 892px;
+}
+
+#myCarousel[data-boxheight="893"] .carousel-item {
+  height: 893px;
+}
+#myCarousel[data-boxheight="893"] .carousel-item svg {
+  height: 893px;
+}
+
+#myCarousel[data-boxheight="894"] .carousel-item {
+  height: 894px;
+}
+#myCarousel[data-boxheight="894"] .carousel-item svg {
+  height: 894px;
+}
+
+#myCarousel[data-boxheight="895"] .carousel-item {
+  height: 895px;
+}
+#myCarousel[data-boxheight="895"] .carousel-item svg {
+  height: 895px;
+}
+
+#myCarousel[data-boxheight="896"] .carousel-item {
+  height: 896px;
+}
+#myCarousel[data-boxheight="896"] .carousel-item svg {
+  height: 896px;
+}
+
+#myCarousel[data-boxheight="897"] .carousel-item {
+  height: 897px;
+}
+#myCarousel[data-boxheight="897"] .carousel-item svg {
+  height: 897px;
+}
+
+#myCarousel[data-boxheight="898"] .carousel-item {
+  height: 898px;
+}
+#myCarousel[data-boxheight="898"] .carousel-item svg {
+  height: 898px;
+}
+
+#myCarousel[data-boxheight="899"] .carousel-item {
+  height: 899px;
+}
+#myCarousel[data-boxheight="899"] .carousel-item svg {
+  height: 899px;
+}
+
+#myCarousel[data-boxheight="900"] .carousel-item {
+  height: 900px;
+}
+#myCarousel[data-boxheight="900"] .carousel-item svg {
+  height: 900px;
+}
+
+#myCarousel[data-boxheight="901"] .carousel-item {
+  height: 901px;
+}
+#myCarousel[data-boxheight="901"] .carousel-item svg {
+  height: 901px;
+}
+
+#myCarousel[data-boxheight="902"] .carousel-item {
+  height: 902px;
+}
+#myCarousel[data-boxheight="902"] .carousel-item svg {
+  height: 902px;
+}
+
+#myCarousel[data-boxheight="903"] .carousel-item {
+  height: 903px;
+}
+#myCarousel[data-boxheight="903"] .carousel-item svg {
+  height: 903px;
+}
+
+#myCarousel[data-boxheight="904"] .carousel-item {
+  height: 904px;
+}
+#myCarousel[data-boxheight="904"] .carousel-item svg {
+  height: 904px;
+}
+
+#myCarousel[data-boxheight="905"] .carousel-item {
+  height: 905px;
+}
+#myCarousel[data-boxheight="905"] .carousel-item svg {
+  height: 905px;
+}
+
+#myCarousel[data-boxheight="906"] .carousel-item {
+  height: 906px;
+}
+#myCarousel[data-boxheight="906"] .carousel-item svg {
+  height: 906px;
+}
+
+#myCarousel[data-boxheight="907"] .carousel-item {
+  height: 907px;
+}
+#myCarousel[data-boxheight="907"] .carousel-item svg {
+  height: 907px;
+}
+
+#myCarousel[data-boxheight="908"] .carousel-item {
+  height: 908px;
+}
+#myCarousel[data-boxheight="908"] .carousel-item svg {
+  height: 908px;
+}
+
+#myCarousel[data-boxheight="909"] .carousel-item {
+  height: 909px;
+}
+#myCarousel[data-boxheight="909"] .carousel-item svg {
+  height: 909px;
+}
+
+#myCarousel[data-boxheight="910"] .carousel-item {
+  height: 910px;
+}
+#myCarousel[data-boxheight="910"] .carousel-item svg {
+  height: 910px;
+}
+
+#myCarousel[data-boxheight="911"] .carousel-item {
+  height: 911px;
+}
+#myCarousel[data-boxheight="911"] .carousel-item svg {
+  height: 911px;
+}
+
+#myCarousel[data-boxheight="912"] .carousel-item {
+  height: 912px;
+}
+#myCarousel[data-boxheight="912"] .carousel-item svg {
+  height: 912px;
+}
+
+#myCarousel[data-boxheight="913"] .carousel-item {
+  height: 913px;
+}
+#myCarousel[data-boxheight="913"] .carousel-item svg {
+  height: 913px;
+}
+
+#myCarousel[data-boxheight="914"] .carousel-item {
+  height: 914px;
+}
+#myCarousel[data-boxheight="914"] .carousel-item svg {
+  height: 914px;
+}
+
+#myCarousel[data-boxheight="915"] .carousel-item {
+  height: 915px;
+}
+#myCarousel[data-boxheight="915"] .carousel-item svg {
+  height: 915px;
+}
+
+#myCarousel[data-boxheight="916"] .carousel-item {
+  height: 916px;
+}
+#myCarousel[data-boxheight="916"] .carousel-item svg {
+  height: 916px;
+}
+
+#myCarousel[data-boxheight="917"] .carousel-item {
+  height: 917px;
+}
+#myCarousel[data-boxheight="917"] .carousel-item svg {
+  height: 917px;
+}
+
+#myCarousel[data-boxheight="918"] .carousel-item {
+  height: 918px;
+}
+#myCarousel[data-boxheight="918"] .carousel-item svg {
+  height: 918px;
+}
+
+#myCarousel[data-boxheight="919"] .carousel-item {
+  height: 919px;
+}
+#myCarousel[data-boxheight="919"] .carousel-item svg {
+  height: 919px;
+}
+
+#myCarousel[data-boxheight="920"] .carousel-item {
+  height: 920px;
+}
+#myCarousel[data-boxheight="920"] .carousel-item svg {
+  height: 920px;
+}
+
+#myCarousel[data-boxheight="921"] .carousel-item {
+  height: 921px;
+}
+#myCarousel[data-boxheight="921"] .carousel-item svg {
+  height: 921px;
+}
+
+#myCarousel[data-boxheight="922"] .carousel-item {
+  height: 922px;
+}
+#myCarousel[data-boxheight="922"] .carousel-item svg {
+  height: 922px;
+}
+
+#myCarousel[data-boxheight="923"] .carousel-item {
+  height: 923px;
+}
+#myCarousel[data-boxheight="923"] .carousel-item svg {
+  height: 923px;
+}
+
+#myCarousel[data-boxheight="924"] .carousel-item {
+  height: 924px;
+}
+#myCarousel[data-boxheight="924"] .carousel-item svg {
+  height: 924px;
+}
+
+#myCarousel[data-boxheight="925"] .carousel-item {
+  height: 925px;
+}
+#myCarousel[data-boxheight="925"] .carousel-item svg {
+  height: 925px;
+}
+
+#myCarousel[data-boxheight="926"] .carousel-item {
+  height: 926px;
+}
+#myCarousel[data-boxheight="926"] .carousel-item svg {
+  height: 926px;
+}
+
+#myCarousel[data-boxheight="927"] .carousel-item {
+  height: 927px;
+}
+#myCarousel[data-boxheight="927"] .carousel-item svg {
+  height: 927px;
+}
+
+#myCarousel[data-boxheight="928"] .carousel-item {
+  height: 928px;
+}
+#myCarousel[data-boxheight="928"] .carousel-item svg {
+  height: 928px;
+}
+
+#myCarousel[data-boxheight="929"] .carousel-item {
+  height: 929px;
+}
+#myCarousel[data-boxheight="929"] .carousel-item svg {
+  height: 929px;
+}
+
+#myCarousel[data-boxheight="930"] .carousel-item {
+  height: 930px;
+}
+#myCarousel[data-boxheight="930"] .carousel-item svg {
+  height: 930px;
+}
+
+#myCarousel[data-boxheight="931"] .carousel-item {
+  height: 931px;
+}
+#myCarousel[data-boxheight="931"] .carousel-item svg {
+  height: 931px;
+}
+
+#myCarousel[data-boxheight="932"] .carousel-item {
+  height: 932px;
+}
+#myCarousel[data-boxheight="932"] .carousel-item svg {
+  height: 932px;
+}
+
+#myCarousel[data-boxheight="933"] .carousel-item {
+  height: 933px;
+}
+#myCarousel[data-boxheight="933"] .carousel-item svg {
+  height: 933px;
+}
+
+#myCarousel[data-boxheight="934"] .carousel-item {
+  height: 934px;
+}
+#myCarousel[data-boxheight="934"] .carousel-item svg {
+  height: 934px;
+}
+
+#myCarousel[data-boxheight="935"] .carousel-item {
+  height: 935px;
+}
+#myCarousel[data-boxheight="935"] .carousel-item svg {
+  height: 935px;
+}
+
+#myCarousel[data-boxheight="936"] .carousel-item {
+  height: 936px;
+}
+#myCarousel[data-boxheight="936"] .carousel-item svg {
+  height: 936px;
+}
+
+#myCarousel[data-boxheight="937"] .carousel-item {
+  height: 937px;
+}
+#myCarousel[data-boxheight="937"] .carousel-item svg {
+  height: 937px;
+}
+
+#myCarousel[data-boxheight="938"] .carousel-item {
+  height: 938px;
+}
+#myCarousel[data-boxheight="938"] .carousel-item svg {
+  height: 938px;
+}
+
+#myCarousel[data-boxheight="939"] .carousel-item {
+  height: 939px;
+}
+#myCarousel[data-boxheight="939"] .carousel-item svg {
+  height: 939px;
+}
+
+#myCarousel[data-boxheight="940"] .carousel-item {
+  height: 940px;
+}
+#myCarousel[data-boxheight="940"] .carousel-item svg {
+  height: 940px;
+}
+
+#myCarousel[data-boxheight="941"] .carousel-item {
+  height: 941px;
+}
+#myCarousel[data-boxheight="941"] .carousel-item svg {
+  height: 941px;
+}
+
+#myCarousel[data-boxheight="942"] .carousel-item {
+  height: 942px;
+}
+#myCarousel[data-boxheight="942"] .carousel-item svg {
+  height: 942px;
+}
+
+#myCarousel[data-boxheight="943"] .carousel-item {
+  height: 943px;
+}
+#myCarousel[data-boxheight="943"] .carousel-item svg {
+  height: 943px;
+}
+
+#myCarousel[data-boxheight="944"] .carousel-item {
+  height: 944px;
+}
+#myCarousel[data-boxheight="944"] .carousel-item svg {
+  height: 944px;
+}
+
+#myCarousel[data-boxheight="945"] .carousel-item {
+  height: 945px;
+}
+#myCarousel[data-boxheight="945"] .carousel-item svg {
+  height: 945px;
+}
+
+#myCarousel[data-boxheight="946"] .carousel-item {
+  height: 946px;
+}
+#myCarousel[data-boxheight="946"] .carousel-item svg {
+  height: 946px;
+}
+
+#myCarousel[data-boxheight="947"] .carousel-item {
+  height: 947px;
+}
+#myCarousel[data-boxheight="947"] .carousel-item svg {
+  height: 947px;
+}
+
+#myCarousel[data-boxheight="948"] .carousel-item {
+  height: 948px;
+}
+#myCarousel[data-boxheight="948"] .carousel-item svg {
+  height: 948px;
+}
+
+#myCarousel[data-boxheight="949"] .carousel-item {
+  height: 949px;
+}
+#myCarousel[data-boxheight="949"] .carousel-item svg {
+  height: 949px;
+}
+
+#myCarousel[data-boxheight="950"] .carousel-item {
+  height: 950px;
+}
+#myCarousel[data-boxheight="950"] .carousel-item svg {
+  height: 950px;
+}
+
+#myCarousel[data-boxheight="951"] .carousel-item {
+  height: 951px;
+}
+#myCarousel[data-boxheight="951"] .carousel-item svg {
+  height: 951px;
+}
+
+#myCarousel[data-boxheight="952"] .carousel-item {
+  height: 952px;
+}
+#myCarousel[data-boxheight="952"] .carousel-item svg {
+  height: 952px;
+}
+
+#myCarousel[data-boxheight="953"] .carousel-item {
+  height: 953px;
+}
+#myCarousel[data-boxheight="953"] .carousel-item svg {
+  height: 953px;
+}
+
+#myCarousel[data-boxheight="954"] .carousel-item {
+  height: 954px;
+}
+#myCarousel[data-boxheight="954"] .carousel-item svg {
+  height: 954px;
+}
+
+#myCarousel[data-boxheight="955"] .carousel-item {
+  height: 955px;
+}
+#myCarousel[data-boxheight="955"] .carousel-item svg {
+  height: 955px;
+}
+
+#myCarousel[data-boxheight="956"] .carousel-item {
+  height: 956px;
+}
+#myCarousel[data-boxheight="956"] .carousel-item svg {
+  height: 956px;
+}
+
+#myCarousel[data-boxheight="957"] .carousel-item {
+  height: 957px;
+}
+#myCarousel[data-boxheight="957"] .carousel-item svg {
+  height: 957px;
+}
+
+#myCarousel[data-boxheight="958"] .carousel-item {
+  height: 958px;
+}
+#myCarousel[data-boxheight="958"] .carousel-item svg {
+  height: 958px;
+}
+
+#myCarousel[data-boxheight="959"] .carousel-item {
+  height: 959px;
+}
+#myCarousel[data-boxheight="959"] .carousel-item svg {
+  height: 959px;
+}
+
+#myCarousel[data-boxheight="960"] .carousel-item {
+  height: 960px;
+}
+#myCarousel[data-boxheight="960"] .carousel-item svg {
+  height: 960px;
+}
+
+#myCarousel[data-boxheight="961"] .carousel-item {
+  height: 961px;
+}
+#myCarousel[data-boxheight="961"] .carousel-item svg {
+  height: 961px;
+}
+
+#myCarousel[data-boxheight="962"] .carousel-item {
+  height: 962px;
+}
+#myCarousel[data-boxheight="962"] .carousel-item svg {
+  height: 962px;
+}
+
+#myCarousel[data-boxheight="963"] .carousel-item {
+  height: 963px;
+}
+#myCarousel[data-boxheight="963"] .carousel-item svg {
+  height: 963px;
+}
+
+#myCarousel[data-boxheight="964"] .carousel-item {
+  height: 964px;
+}
+#myCarousel[data-boxheight="964"] .carousel-item svg {
+  height: 964px;
+}
+
+#myCarousel[data-boxheight="965"] .carousel-item {
+  height: 965px;
+}
+#myCarousel[data-boxheight="965"] .carousel-item svg {
+  height: 965px;
+}
+
+#myCarousel[data-boxheight="966"] .carousel-item {
+  height: 966px;
+}
+#myCarousel[data-boxheight="966"] .carousel-item svg {
+  height: 966px;
+}
+
+#myCarousel[data-boxheight="967"] .carousel-item {
+  height: 967px;
+}
+#myCarousel[data-boxheight="967"] .carousel-item svg {
+  height: 967px;
+}
+
+#myCarousel[data-boxheight="968"] .carousel-item {
+  height: 968px;
+}
+#myCarousel[data-boxheight="968"] .carousel-item svg {
+  height: 968px;
+}
+
+#myCarousel[data-boxheight="969"] .carousel-item {
+  height: 969px;
+}
+#myCarousel[data-boxheight="969"] .carousel-item svg {
+  height: 969px;
+}
+
+#myCarousel[data-boxheight="970"] .carousel-item {
+  height: 970px;
+}
+#myCarousel[data-boxheight="970"] .carousel-item svg {
+  height: 970px;
+}
+
+#myCarousel[data-boxheight="971"] .carousel-item {
+  height: 971px;
+}
+#myCarousel[data-boxheight="971"] .carousel-item svg {
+  height: 971px;
+}
+
+#myCarousel[data-boxheight="972"] .carousel-item {
+  height: 972px;
+}
+#myCarousel[data-boxheight="972"] .carousel-item svg {
+  height: 972px;
+}
+
+#myCarousel[data-boxheight="973"] .carousel-item {
+  height: 973px;
+}
+#myCarousel[data-boxheight="973"] .carousel-item svg {
+  height: 973px;
+}
+
+#myCarousel[data-boxheight="974"] .carousel-item {
+  height: 974px;
+}
+#myCarousel[data-boxheight="974"] .carousel-item svg {
+  height: 974px;
+}
+
+#myCarousel[data-boxheight="975"] .carousel-item {
+  height: 975px;
+}
+#myCarousel[data-boxheight="975"] .carousel-item svg {
+  height: 975px;
+}
+
+#myCarousel[data-boxheight="976"] .carousel-item {
+  height: 976px;
+}
+#myCarousel[data-boxheight="976"] .carousel-item svg {
+  height: 976px;
+}
+
+#myCarousel[data-boxheight="977"] .carousel-item {
+  height: 977px;
+}
+#myCarousel[data-boxheight="977"] .carousel-item svg {
+  height: 977px;
+}
+
+#myCarousel[data-boxheight="978"] .carousel-item {
+  height: 978px;
+}
+#myCarousel[data-boxheight="978"] .carousel-item svg {
+  height: 978px;
+}
+
+#myCarousel[data-boxheight="979"] .carousel-item {
+  height: 979px;
+}
+#myCarousel[data-boxheight="979"] .carousel-item svg {
+  height: 979px;
+}
+
+#myCarousel[data-boxheight="980"] .carousel-item {
+  height: 980px;
+}
+#myCarousel[data-boxheight="980"] .carousel-item svg {
+  height: 980px;
+}
+
+#myCarousel[data-boxheight="981"] .carousel-item {
+  height: 981px;
+}
+#myCarousel[data-boxheight="981"] .carousel-item svg {
+  height: 981px;
+}
+
+#myCarousel[data-boxheight="982"] .carousel-item {
+  height: 982px;
+}
+#myCarousel[data-boxheight="982"] .carousel-item svg {
+  height: 982px;
+}
+
+#myCarousel[data-boxheight="983"] .carousel-item {
+  height: 983px;
+}
+#myCarousel[data-boxheight="983"] .carousel-item svg {
+  height: 983px;
+}
+
+#myCarousel[data-boxheight="984"] .carousel-item {
+  height: 984px;
+}
+#myCarousel[data-boxheight="984"] .carousel-item svg {
+  height: 984px;
+}
+
+#myCarousel[data-boxheight="985"] .carousel-item {
+  height: 985px;
+}
+#myCarousel[data-boxheight="985"] .carousel-item svg {
+  height: 985px;
+}
+
+#myCarousel[data-boxheight="986"] .carousel-item {
+  height: 986px;
+}
+#myCarousel[data-boxheight="986"] .carousel-item svg {
+  height: 986px;
+}
+
+#myCarousel[data-boxheight="987"] .carousel-item {
+  height: 987px;
+}
+#myCarousel[data-boxheight="987"] .carousel-item svg {
+  height: 987px;
+}
+
+#myCarousel[data-boxheight="988"] .carousel-item {
+  height: 988px;
+}
+#myCarousel[data-boxheight="988"] .carousel-item svg {
+  height: 988px;
+}
+
+#myCarousel[data-boxheight="989"] .carousel-item {
+  height: 989px;
+}
+#myCarousel[data-boxheight="989"] .carousel-item svg {
+  height: 989px;
+}
+
+#myCarousel[data-boxheight="990"] .carousel-item {
+  height: 990px;
+}
+#myCarousel[data-boxheight="990"] .carousel-item svg {
+  height: 990px;
+}
+
+#myCarousel[data-boxheight="991"] .carousel-item {
+  height: 991px;
+}
+#myCarousel[data-boxheight="991"] .carousel-item svg {
+  height: 991px;
+}
+
+#myCarousel[data-boxheight="992"] .carousel-item {
+  height: 992px;
+}
+#myCarousel[data-boxheight="992"] .carousel-item svg {
+  height: 992px;
+}
+
+#myCarousel[data-boxheight="993"] .carousel-item {
+  height: 993px;
+}
+#myCarousel[data-boxheight="993"] .carousel-item svg {
+  height: 993px;
+}
+
+#myCarousel[data-boxheight="994"] .carousel-item {
+  height: 994px;
+}
+#myCarousel[data-boxheight="994"] .carousel-item svg {
+  height: 994px;
+}
+
+#myCarousel[data-boxheight="995"] .carousel-item {
+  height: 995px;
+}
+#myCarousel[data-boxheight="995"] .carousel-item svg {
+  height: 995px;
+}
+
+#myCarousel[data-boxheight="996"] .carousel-item {
+  height: 996px;
+}
+#myCarousel[data-boxheight="996"] .carousel-item svg {
+  height: 996px;
+}
+
+#myCarousel[data-boxheight="997"] .carousel-item {
+  height: 997px;
+}
+#myCarousel[data-boxheight="997"] .carousel-item svg {
+  height: 997px;
+}
+
+#myCarousel[data-boxheight="998"] .carousel-item {
+  height: 998px;
+}
+#myCarousel[data-boxheight="998"] .carousel-item svg {
+  height: 998px;
+}
+
+#myCarousel[data-boxheight="999"] .carousel-item {
+  height: 999px;
+}
+#myCarousel[data-boxheight="999"] .carousel-item svg {
+  height: 999px;
+}
+
+#myCarousel[data-boxheight="1000"] .carousel-item {
+  height: 1000px;
+}
+#myCarousel[data-boxheight="1000"] .carousel-item svg {
+  height: 1000px;
+}
+
+#myCarousel[data-boxheight="1001"] .carousel-item {
+  height: 1001px;
+}
+#myCarousel[data-boxheight="1001"] .carousel-item svg {
+  height: 1001px;
+}
+
+#myCarousel[data-boxheight="1002"] .carousel-item {
+  height: 1002px;
+}
+#myCarousel[data-boxheight="1002"] .carousel-item svg {
+  height: 1002px;
+}
+
+#myCarousel[data-boxheight="1003"] .carousel-item {
+  height: 1003px;
+}
+#myCarousel[data-boxheight="1003"] .carousel-item svg {
+  height: 1003px;
+}
+
+#myCarousel[data-boxheight="1004"] .carousel-item {
+  height: 1004px;
+}
+#myCarousel[data-boxheight="1004"] .carousel-item svg {
+  height: 1004px;
+}
+
+#myCarousel[data-boxheight="1005"] .carousel-item {
+  height: 1005px;
+}
+#myCarousel[data-boxheight="1005"] .carousel-item svg {
+  height: 1005px;
+}
+
+#myCarousel[data-boxheight="1006"] .carousel-item {
+  height: 1006px;
+}
+#myCarousel[data-boxheight="1006"] .carousel-item svg {
+  height: 1006px;
+}
+
+#myCarousel[data-boxheight="1007"] .carousel-item {
+  height: 1007px;
+}
+#myCarousel[data-boxheight="1007"] .carousel-item svg {
+  height: 1007px;
+}
+
+#myCarousel[data-boxheight="1008"] .carousel-item {
+  height: 1008px;
+}
+#myCarousel[data-boxheight="1008"] .carousel-item svg {
+  height: 1008px;
+}
+
+#myCarousel[data-boxheight="1009"] .carousel-item {
+  height: 1009px;
+}
+#myCarousel[data-boxheight="1009"] .carousel-item svg {
+  height: 1009px;
+}
+
+#myCarousel[data-boxheight="1010"] .carousel-item {
+  height: 1010px;
+}
+#myCarousel[data-boxheight="1010"] .carousel-item svg {
+  height: 1010px;
+}
+
+#myCarousel[data-boxheight="1011"] .carousel-item {
+  height: 1011px;
+}
+#myCarousel[data-boxheight="1011"] .carousel-item svg {
+  height: 1011px;
+}
+
+#myCarousel[data-boxheight="1012"] .carousel-item {
+  height: 1012px;
+}
+#myCarousel[data-boxheight="1012"] .carousel-item svg {
+  height: 1012px;
+}
+
+#myCarousel[data-boxheight="1013"] .carousel-item {
+  height: 1013px;
+}
+#myCarousel[data-boxheight="1013"] .carousel-item svg {
+  height: 1013px;
+}
+
+#myCarousel[data-boxheight="1014"] .carousel-item {
+  height: 1014px;
+}
+#myCarousel[data-boxheight="1014"] .carousel-item svg {
+  height: 1014px;
+}
+
+#myCarousel[data-boxheight="1015"] .carousel-item {
+  height: 1015px;
+}
+#myCarousel[data-boxheight="1015"] .carousel-item svg {
+  height: 1015px;
+}
+
+#myCarousel[data-boxheight="1016"] .carousel-item {
+  height: 1016px;
+}
+#myCarousel[data-boxheight="1016"] .carousel-item svg {
+  height: 1016px;
+}
+
+#myCarousel[data-boxheight="1017"] .carousel-item {
+  height: 1017px;
+}
+#myCarousel[data-boxheight="1017"] .carousel-item svg {
+  height: 1017px;
+}
+
+#myCarousel[data-boxheight="1018"] .carousel-item {
+  height: 1018px;
+}
+#myCarousel[data-boxheight="1018"] .carousel-item svg {
+  height: 1018px;
+}
+
+#myCarousel[data-boxheight="1019"] .carousel-item {
+  height: 1019px;
+}
+#myCarousel[data-boxheight="1019"] .carousel-item svg {
+  height: 1019px;
+}
+
+#myCarousel[data-boxheight="1020"] .carousel-item {
+  height: 1020px;
+}
+#myCarousel[data-boxheight="1020"] .carousel-item svg {
+  height: 1020px;
+}
+
+#myCarousel[data-boxheight="1021"] .carousel-item {
+  height: 1021px;
+}
+#myCarousel[data-boxheight="1021"] .carousel-item svg {
+  height: 1021px;
+}
+
+#myCarousel[data-boxheight="1022"] .carousel-item {
+  height: 1022px;
+}
+#myCarousel[data-boxheight="1022"] .carousel-item svg {
+  height: 1022px;
+}
+
+#myCarousel[data-boxheight="1023"] .carousel-item {
+  height: 1023px;
+}
+#myCarousel[data-boxheight="1023"] .carousel-item svg {
+  height: 1023px;
+}
+
+#myCarousel[data-boxheight="1024"] .carousel-item {
+  height: 1024px;
+}
+#myCarousel[data-boxheight="1024"] .carousel-item svg {
+  height: 1024px;
+}
+
+#myCarousel[data-boxheight="1025"] .carousel-item {
+  height: 1025px;
+}
+#myCarousel[data-boxheight="1025"] .carousel-item svg {
+  height: 1025px;
+}
+
+#myCarousel[data-boxheight="1026"] .carousel-item {
+  height: 1026px;
+}
+#myCarousel[data-boxheight="1026"] .carousel-item svg {
+  height: 1026px;
+}
+
+#myCarousel[data-boxheight="1027"] .carousel-item {
+  height: 1027px;
+}
+#myCarousel[data-boxheight="1027"] .carousel-item svg {
+  height: 1027px;
+}
+
+#myCarousel[data-boxheight="1028"] .carousel-item {
+  height: 1028px;
+}
+#myCarousel[data-boxheight="1028"] .carousel-item svg {
+  height: 1028px;
+}
+
+#myCarousel[data-boxheight="1029"] .carousel-item {
+  height: 1029px;
+}
+#myCarousel[data-boxheight="1029"] .carousel-item svg {
+  height: 1029px;
+}
+
+#myCarousel[data-boxheight="1030"] .carousel-item {
+  height: 1030px;
+}
+#myCarousel[data-boxheight="1030"] .carousel-item svg {
+  height: 1030px;
+}
+
+#myCarousel[data-boxheight="1031"] .carousel-item {
+  height: 1031px;
+}
+#myCarousel[data-boxheight="1031"] .carousel-item svg {
+  height: 1031px;
+}
+
+#myCarousel[data-boxheight="1032"] .carousel-item {
+  height: 1032px;
+}
+#myCarousel[data-boxheight="1032"] .carousel-item svg {
+  height: 1032px;
+}
+
+#myCarousel[data-boxheight="1033"] .carousel-item {
+  height: 1033px;
+}
+#myCarousel[data-boxheight="1033"] .carousel-item svg {
+  height: 1033px;
+}
+
+#myCarousel[data-boxheight="1034"] .carousel-item {
+  height: 1034px;
+}
+#myCarousel[data-boxheight="1034"] .carousel-item svg {
+  height: 1034px;
+}
+
+#myCarousel[data-boxheight="1035"] .carousel-item {
+  height: 1035px;
+}
+#myCarousel[data-boxheight="1035"] .carousel-item svg {
+  height: 1035px;
+}
+
+#myCarousel[data-boxheight="1036"] .carousel-item {
+  height: 1036px;
+}
+#myCarousel[data-boxheight="1036"] .carousel-item svg {
+  height: 1036px;
+}
+
+#myCarousel[data-boxheight="1037"] .carousel-item {
+  height: 1037px;
+}
+#myCarousel[data-boxheight="1037"] .carousel-item svg {
+  height: 1037px;
+}
+
+#myCarousel[data-boxheight="1038"] .carousel-item {
+  height: 1038px;
+}
+#myCarousel[data-boxheight="1038"] .carousel-item svg {
+  height: 1038px;
+}
+
+#myCarousel[data-boxheight="1039"] .carousel-item {
+  height: 1039px;
+}
+#myCarousel[data-boxheight="1039"] .carousel-item svg {
+  height: 1039px;
+}
+
+#myCarousel[data-boxheight="1040"] .carousel-item {
+  height: 1040px;
+}
+#myCarousel[data-boxheight="1040"] .carousel-item svg {
+  height: 1040px;
+}
+
+#myCarousel[data-boxheight="1041"] .carousel-item {
+  height: 1041px;
+}
+#myCarousel[data-boxheight="1041"] .carousel-item svg {
+  height: 1041px;
+}
+
+#myCarousel[data-boxheight="1042"] .carousel-item {
+  height: 1042px;
+}
+#myCarousel[data-boxheight="1042"] .carousel-item svg {
+  height: 1042px;
+}
+
+#myCarousel[data-boxheight="1043"] .carousel-item {
+  height: 1043px;
+}
+#myCarousel[data-boxheight="1043"] .carousel-item svg {
+  height: 1043px;
+}
+
+#myCarousel[data-boxheight="1044"] .carousel-item {
+  height: 1044px;
+}
+#myCarousel[data-boxheight="1044"] .carousel-item svg {
+  height: 1044px;
+}
+
+#myCarousel[data-boxheight="1045"] .carousel-item {
+  height: 1045px;
+}
+#myCarousel[data-boxheight="1045"] .carousel-item svg {
+  height: 1045px;
+}
+
+#myCarousel[data-boxheight="1046"] .carousel-item {
+  height: 1046px;
+}
+#myCarousel[data-boxheight="1046"] .carousel-item svg {
+  height: 1046px;
+}
+
+#myCarousel[data-boxheight="1047"] .carousel-item {
+  height: 1047px;
+}
+#myCarousel[data-boxheight="1047"] .carousel-item svg {
+  height: 1047px;
+}
+
+#myCarousel[data-boxheight="1048"] .carousel-item {
+  height: 1048px;
+}
+#myCarousel[data-boxheight="1048"] .carousel-item svg {
+  height: 1048px;
+}
+
+#myCarousel[data-boxheight="1049"] .carousel-item {
+  height: 1049px;
+}
+#myCarousel[data-boxheight="1049"] .carousel-item svg {
+  height: 1049px;
+}
+
+#myCarousel[data-boxheight="1050"] .carousel-item {
+  height: 1050px;
+}
+#myCarousel[data-boxheight="1050"] .carousel-item svg {
+  height: 1050px;
+}
+
+#myCarousel[data-boxheight="1051"] .carousel-item {
+  height: 1051px;
+}
+#myCarousel[data-boxheight="1051"] .carousel-item svg {
+  height: 1051px;
+}
+
+#myCarousel[data-boxheight="1052"] .carousel-item {
+  height: 1052px;
+}
+#myCarousel[data-boxheight="1052"] .carousel-item svg {
+  height: 1052px;
+}
+
+#myCarousel[data-boxheight="1053"] .carousel-item {
+  height: 1053px;
+}
+#myCarousel[data-boxheight="1053"] .carousel-item svg {
+  height: 1053px;
+}
+
+#myCarousel[data-boxheight="1054"] .carousel-item {
+  height: 1054px;
+}
+#myCarousel[data-boxheight="1054"] .carousel-item svg {
+  height: 1054px;
+}
+
+#myCarousel[data-boxheight="1055"] .carousel-item {
+  height: 1055px;
+}
+#myCarousel[data-boxheight="1055"] .carousel-item svg {
+  height: 1055px;
+}
+
+#myCarousel[data-boxheight="1056"] .carousel-item {
+  height: 1056px;
+}
+#myCarousel[data-boxheight="1056"] .carousel-item svg {
+  height: 1056px;
+}
+
+#myCarousel[data-boxheight="1057"] .carousel-item {
+  height: 1057px;
+}
+#myCarousel[data-boxheight="1057"] .carousel-item svg {
+  height: 1057px;
+}
+
+#myCarousel[data-boxheight="1058"] .carousel-item {
+  height: 1058px;
+}
+#myCarousel[data-boxheight="1058"] .carousel-item svg {
+  height: 1058px;
+}
+
+#myCarousel[data-boxheight="1059"] .carousel-item {
+  height: 1059px;
+}
+#myCarousel[data-boxheight="1059"] .carousel-item svg {
+  height: 1059px;
+}
+
+#myCarousel[data-boxheight="1060"] .carousel-item {
+  height: 1060px;
+}
+#myCarousel[data-boxheight="1060"] .carousel-item svg {
+  height: 1060px;
+}
+
+#myCarousel[data-boxheight="1061"] .carousel-item {
+  height: 1061px;
+}
+#myCarousel[data-boxheight="1061"] .carousel-item svg {
+  height: 1061px;
+}
+
+#myCarousel[data-boxheight="1062"] .carousel-item {
+  height: 1062px;
+}
+#myCarousel[data-boxheight="1062"] .carousel-item svg {
+  height: 1062px;
+}
+
+#myCarousel[data-boxheight="1063"] .carousel-item {
+  height: 1063px;
+}
+#myCarousel[data-boxheight="1063"] .carousel-item svg {
+  height: 1063px;
+}
+
+#myCarousel[data-boxheight="1064"] .carousel-item {
+  height: 1064px;
+}
+#myCarousel[data-boxheight="1064"] .carousel-item svg {
+  height: 1064px;
+}
+
+#myCarousel[data-boxheight="1065"] .carousel-item {
+  height: 1065px;
+}
+#myCarousel[data-boxheight="1065"] .carousel-item svg {
+  height: 1065px;
+}
+
+#myCarousel[data-boxheight="1066"] .carousel-item {
+  height: 1066px;
+}
+#myCarousel[data-boxheight="1066"] .carousel-item svg {
+  height: 1066px;
+}
+
+#myCarousel[data-boxheight="1067"] .carousel-item {
+  height: 1067px;
+}
+#myCarousel[data-boxheight="1067"] .carousel-item svg {
+  height: 1067px;
+}
+
+#myCarousel[data-boxheight="1068"] .carousel-item {
+  height: 1068px;
+}
+#myCarousel[data-boxheight="1068"] .carousel-item svg {
+  height: 1068px;
+}
+
+#myCarousel[data-boxheight="1069"] .carousel-item {
+  height: 1069px;
+}
+#myCarousel[data-boxheight="1069"] .carousel-item svg {
+  height: 1069px;
+}
+
+#myCarousel[data-boxheight="1070"] .carousel-item {
+  height: 1070px;
+}
+#myCarousel[data-boxheight="1070"] .carousel-item svg {
+  height: 1070px;
+}
+
+#myCarousel[data-boxheight="1071"] .carousel-item {
+  height: 1071px;
+}
+#myCarousel[data-boxheight="1071"] .carousel-item svg {
+  height: 1071px;
+}
+
+#myCarousel[data-boxheight="1072"] .carousel-item {
+  height: 1072px;
+}
+#myCarousel[data-boxheight="1072"] .carousel-item svg {
+  height: 1072px;
+}
+
+#myCarousel[data-boxheight="1073"] .carousel-item {
+  height: 1073px;
+}
+#myCarousel[data-boxheight="1073"] .carousel-item svg {
+  height: 1073px;
+}
+
+#myCarousel[data-boxheight="1074"] .carousel-item {
+  height: 1074px;
+}
+#myCarousel[data-boxheight="1074"] .carousel-item svg {
+  height: 1074px;
+}
+
+#myCarousel[data-boxheight="1075"] .carousel-item {
+  height: 1075px;
+}
+#myCarousel[data-boxheight="1075"] .carousel-item svg {
+  height: 1075px;
+}
+
+#myCarousel[data-boxheight="1076"] .carousel-item {
+  height: 1076px;
+}
+#myCarousel[data-boxheight="1076"] .carousel-item svg {
+  height: 1076px;
+}
+
+#myCarousel[data-boxheight="1077"] .carousel-item {
+  height: 1077px;
+}
+#myCarousel[data-boxheight="1077"] .carousel-item svg {
+  height: 1077px;
+}
+
+#myCarousel[data-boxheight="1078"] .carousel-item {
+  height: 1078px;
+}
+#myCarousel[data-boxheight="1078"] .carousel-item svg {
+  height: 1078px;
+}
+
+#myCarousel[data-boxheight="1079"] .carousel-item {
+  height: 1079px;
+}
+#myCarousel[data-boxheight="1079"] .carousel-item svg {
+  height: 1079px;
+}
+
+#myCarousel[data-boxheight="1080"] .carousel-item {
+  height: 1080px;
+}
+#myCarousel[data-boxheight="1080"] .carousel-item svg {
+  height: 1080px;
+}
+
+.carousel-indicators {
+  right: 0;
+  bottom: 0;
+  top: 0;
+  left: auto;
+  flex-direction: column;
+  margin-right: 1rem;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.carousel-indicators [data-bs-target] {
+  width: 3px;
+  height: 30px;
+  border-top-width: 3px;
+  border-bottom-width: 3px;
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+}/*# sourceMappingURL=fillpage-carousel.css.map */
